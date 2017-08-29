@@ -729,7 +729,6 @@ layout: page
 * There is a young girl trapped in machinery (a baler) from a local university, as well as Ran in another baler.
 * He claims that he was embraced after the last time, and that we will play a little game this time.
 * We can sacrifice one of our own to end this now, or we can go through his fun house, with a 3 hour time limit before the whole thing explodes.
-
 * Relic moves to R2 and opens the door. When he does the sound of a generator comes on. They come to a room with three thrones: one of oak, one of granite, one of iron.
 * There are loose stones littering the floor with the names of gods on them.
 * After talking to Selim, they think the iron is out of place in a pantheon of that time.
@@ -742,7 +741,6 @@ layout: page
 * Grey comes into the room, but something quickly reaches out and collars him and it starts to dig into his neck. He turns into shadow to escape.
 * They get to the next room which is full of televisions showing different parts of the city.
 * Relic activates wolf claws and starts to climb up a hole. Samael is waiting at the top and blasts him dead with an elephant gun.
-
 * Rhymez, Fausten, and Selim go to L1. Inside we come to a Jefferies Tube with rungs covered in a black molasses type substance. We go up about two floors and our hands and feet are coated in ichor.
 * The room we enter looks like a ball room lit by torches with a grand piano in the center playing music, and the room looks like it takes up the whole third floor.
 * There are chandelliers and ropes holding them, as well as a stage with a curtain.
@@ -1006,13 +1004,11 @@ James Nowak's haven, located under warehouses by the docks.
 ### Boneyard
 The Boneyard is the hip, downtown club owned by Rhymez. He is the house DJ, plays the occasional live show, and has a recording studio as well as his haven in the basement. Was burnt down.
 
-## Player Characters
+## Player Characters - Hands of Apocrypha
 
-### Hands of Apocrypha
+### The Sons of Midnight
 
-#### The Sons of Midnight
-
-##### James Novak
+#### James Novak
 **Player:** Darren Brewster<br>
 **Concept:** Former executive in the Longshormen's Union<br>
 **Clan:** Nosferatu<br>
@@ -1029,50 +1025,50 @@ The Boneyard is the hip, downtown club owned by Rhymez. He is the house DJ, play
 **Weight:** 160 lbs.<br>
 **Sex:** Male
 
-##### Carlos Gianni
+#### Carlos Gianni
 Player: Mike Hennigar<br>
 Covenant: Lancea sanctum<br>
 Sex: Male
 
-##### Carmen Gianni
+#### Carmen Gianni
 Player: Mike Hennigar<br>
 Covenant: Lancea Sanctum<br>
 Sex: Female
 
-##### Tom Thorton
+#### Tom Thorton
 Player: Mike Currie<br>
 Clan: Nosferatu<br>
 Covenant: Lancea Sanctum<br>
 Sex: Male
 
-##### Kael "One Punch" Cohane
+#### Kael "One Punch" Cohane
 Player: Tim Dobson<br>
 Covenant: Ordo Dracul<br>
 Sex: Male
 
-#### The Fast and the Mysterious
+### The Fast and the Mysterious
 
-##### Nick Quolye
+#### Nick Quolye
 Player: Shawn Maggio<br>
 Covenant: The Carthian Movement<br>
 Sex: Male
 
-##### Ewan Whitwer
+#### Ewan Whitwer
 Player: Andrew Maggio<br>
 Sex: Male
 
-##### Johnny Fears
+#### Johnny Fears
 Player: Lee Moore<br>
 Covenant: The Carthian Movement<br>
 Sex: Male
 
-##### Dr. Yohanz Fausten
+#### Dr. Yohanz Fausten
 Player: Iain Anderson<br>
 Sex: Male
 
-#### Unaligned ####
+### Unaligned ####
 
-##### Insidious Rhymez
+#### Insidious Rhymez
 **Player:** Darren Brewster<br>
 **Concept:** Chicago area rapper<br>
 **Clan:** Daeva<br>
@@ -1095,22 +1091,22 @@ Givin' me the juice that your not gettin'
 
 \- Public Enemy "Public Enemy No. 1"
 
-##### Yueh
+#### Yueh
 Player: Tim Dobson<br>
 Sex: Male
 
-##### Benjamin "Relic" MacGregor
+#### Benjamin "Relic" MacGregor
 
-##### Grey
+#### Grey
 
-##### Jack Novak
+#### Jack Novak
 
-##### Victor Shaposnakov
+#### Victor Shaposnakov
 
-##### Raoul
+#### Raoul
 
-##### Selim
+#### Selim
 
-##### Al-Sabah
+#### Al-Sabah
 
-##### Gabriel
+#### Gabriel
