@@ -1,6 +1,5 @@
 ---
 title: Trek Accelerated
-layout: page
 ---
 
 # Trek Accelerated
