@@ -27,5 +27,5 @@ A Fate Accelerated Edition Star Trek adaptation.
 ## [Traveller: The New Era](/travnewera)
 A recap of a free trader in the Third Imperium
 
-## [The Truth is a Lie])(https://campaign-19247.obsidianportal.com)
+## [The Truth is a Lie](https://campaign-19247.obsidianportal.com)
 A Conspiracy X campaign wiki.
