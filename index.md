@@ -1,6 +1,5 @@
 ---
 title: ExCrusader.com
-layout: default
 ---
 
 # ExCrusader.com
