@@ -1,6 +1,5 @@
 ---
 title: Brick
-layout: page
 ---
 
 # BRICK
