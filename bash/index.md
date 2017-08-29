@@ -1,6 +1,5 @@
 ---
 title: Basic Action Super Heroes
-layout: page
 ---
 
 # Basic Action Super Heroes
