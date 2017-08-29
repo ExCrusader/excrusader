@@ -1,6 +1,5 @@
 ---
 title: Shadowfist
-layout: page
 ---
 
 # SHADOWFIST — Master of the Martial Arts
