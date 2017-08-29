@@ -1,6 +1,5 @@
 ---
 title: Wavelength
-layout: page
 ---
 
 # WAVELENGTH
