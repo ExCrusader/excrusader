@@ -4,7 +4,11 @@ layout: page
 ---
 
 # Trek Accelerated
-Star Trek powered by Fate Accelerated Edition
+Star Trek powered by Fate Accelerated Edition (FAE), with some Stars Without Number (SWN) thrown in for the command point system for ship combat.
+
+My current thought process for choosing FAE is that it models fiction where every main character has very similar levels of capabilities, like most ensemble tv shows, and Star Trek in particular. Everyone on the Enterprise had their specialty, but they all seemed to be able to do any other job in a pinch.
+
+Stars Without Number was chosen because the command point ship-to-ship combat system solves the problem of how does everyone get involved in the ship combats. The essence of the system will probably be brought more inline with the rules in FAE.
 
 ## Character Creation
 Character creation is the standard character creation as presented in Fate Accelerated Edition (FAE). With a character creation process that is so open, the most important consideration is keeping your character within the spirit of the source material. There is a few things to keep in mind:
