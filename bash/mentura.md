@@ -1,6 +1,5 @@
 ---
 title: Mentura
-layout: page
 ---
 
 # MENTURA
