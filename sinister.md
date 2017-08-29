@@ -1,6 +1,5 @@
 ---
 title: Sinister
-layout: page
 ---
 
 # World of Darkness: Sinister
