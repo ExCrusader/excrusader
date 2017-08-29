@@ -1,6 +1,5 @@
 ---
 title: The Avenger
-layout: page
 ---
 
 # THE AVENGER
