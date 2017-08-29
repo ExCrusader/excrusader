@@ -1,6 +1,5 @@
 ---
 title: Inferno
-layout: page
 ---
 
 # INFERNO
