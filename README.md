@@ -3,6 +3,8 @@ A tabletop roleplaying game site for characters, ideas, recaps, and whatever els
 
 Test campaign recap site at http://burningrealms.excrusader.com/
 
+Example of the old wiki at https://sites.google.com/site/excrusader/
+
 If a page needs sub pages copy it to a folder of the same name/index.md
 Example: bash.md changes to bash/index.md
 
