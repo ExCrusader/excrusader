@@ -1,6 +1,5 @@
 ---
 title: Agon
-layout: page
 ---
 
 # Agon
