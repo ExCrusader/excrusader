@@ -1,6 +1,5 @@
 ---
 title: Traveller The New Era
-layout: page
 ---
 
 # Traveller: The New Era
