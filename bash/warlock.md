@@ -1,6 +1,5 @@
 ---
 title: Warlock
-layout: page
 ---
 
 # WARLOCK — Magus Malevolent
