@@ -1104,7 +1104,6 @@ Sex: Male
 ##### Grey
 
 ##### Jack Novak
-Name: Copied. WTF?
 
 ##### Victor Shaposnakov
 
