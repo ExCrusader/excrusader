@@ -1,6 +1,5 @@
 ---
 title: Marvel Civil War
-layout: page
 ---
 
 # Marvel Civil War
