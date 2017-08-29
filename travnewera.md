@@ -53,5 +53,5 @@ Unarmed combat specialist.
 Mechanic.
 ### Bebop
 Faceman.
-# Rocksteady
+### Rocksteady
 Pilot and captain.
