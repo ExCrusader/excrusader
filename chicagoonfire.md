@@ -1,6 +1,5 @@
 ---
 title: Chicago On Fire
-layout: page
 ---
 
 # Chicago On Fire
