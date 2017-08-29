@@ -12,3 +12,5 @@ Example: bash.md changes to bash/index.md
 
 If all links are relative and don't contain a trailing slash they will resolve if it is in the main folder or a subfolder.
 Example: /bash not /bash/
+
+An excellent Jekyll tutorial https://learn.cloudcannon.com
