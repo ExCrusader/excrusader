@@ -3,9 +3,9 @@ title: Traveller The New Era
 layout: page
 ---
 
-====== Traveller: The New Era ======
-===== Game Recaps =====
-==== August 7, 2007 ====
+# Traveller: The New Era
+## Game Recaps
+### August 7, 2007
   * The prison guards start looking for alternate light sources after we demolish the power station.
   * Bebop doesn't make the climb, falling taking minor damage. We hoist him up, and enter the prison compound (a pentagon styled building).
   * We make the long run to the small bunker like structure in the center of the compound.
@@ -25,7 +25,7 @@ layout: page
   * We encounter 6 men barracaded in a long cell block. Ronin unsuccessfully grenades them, then takes multiple assault rifle shots to the abdomen.
   * The gun fire from the rebels gets closer. We hide in a cell, hoping for the best. The explosions and commotion pass us by upstairs.
   * We can't defeat them and retreat to the waiting rebels. We are introduced to Marissa Starcar and retreat with the rebel force.
-==== August 21, 2007 ====
+### August 21, 2007
   *  We retreat with the rebels to the north of the city.
   * We find out that the rebels were on a rescue operation the same as us. There are rebels within the prison.
   * Both parties agree that getting rid of Duke Joseph Barris would be in everyone's interests.
@@ -40,18 +40,18 @@ layout: page
   * We succeed, forming a perimeter around the Helios. We begin preparations to get the Helios off the ground.
   * The Helios is so old that starting it isn't easy. We have to wait quite a while before we can get it running.
   * While on the perimeter, Gunney notices that the grav tank is approaching the airport, with the Helios out of action for at least an hour.
-===== NPCs =====
-==== Duke Joseph Barris ====
-==== Marissa Starcar ====
+## NPCs
+### Duke Joseph Barris
+### Marissa Starcar
 Mercenary hired by local rebels to fight Duke Joseph Barris, then stranded on the planet. Very confident personality.
-===== Player Characters =====
-==== Gunney ====
+## Player Characters
+### Gunney
 Combat marine.
-==== Ronin ====
+### Ronin
 Unarmed combat specialist.
-==== Wrench ====
+### Wrench
 Mechanic.
-==== Bebop ====
-Faceman
-==== Rocksteady ====
+### Bebop
+Faceman.
+# Rocksteady
 Pilot and captain.
