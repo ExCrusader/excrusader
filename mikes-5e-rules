@@ -10,7 +10,7 @@
 
 <div class='cover-splotch'></div>
 
-<div class='cover-footer'>Mike's House Rules & Handy Player Reference <br> Including Level Advancement, Improved Skills, Social Mechanics & More</div>
+<div class='cover-footer'>Mike's House Rules & Handy Player Reference<br>Including Level Advancement, Improved Skills, Social Mechanics & More</div>
 
 \pagebreak
 
@@ -1000,7 +1000,7 @@ Movement cost: half of your speed
 
 - You can't stand up if you don't have enough movement left or if your speed is 0
 
-> #### DIFFICULT TERRAIN
+> #### Difficult Terrain
 > Moving in difficult terrain costs an additional 5ft of movement
 
 <div class='footnote'>PART 7 | REFERENCE & REMINDER</div>
@@ -1288,7 +1288,7 @@ You can't take actions or reactions
 - You have disadvantage on attack rolls.
 - Attack rolls against you have advantage if the attacker is within 5 feet of you, otherwise the attack roll has disadvantage.
 
-<div class='footnote'>PART 6 | REFERENCE & REMINDER</div>
+<div class='footnote'>PART 7 | REFERENCE & REMINDER</div>
 
 \pagebreakNum
 
@@ -1330,7 +1330,7 @@ If you roll a 20 on the d20, you immediately regain 1 hit point.
 - The creature stops being stable, and must start making death saving throws again, if it takes any damage.
 - A stable creature that isn't healed regains 1 hit point after 1d4 hours.
 
-<div class='footnote'>PART 6 | REFERENCE & REMINDER</div>
+<div class='footnote'>PART 7 | REFERENCE & REMINDER</div>
 
 \pagebreakNum
 
@@ -1403,7 +1403,7 @@ If you roll a 20 on the d20, you immediately regain 1 hit point.
 - A target with total cover can’t be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect.
 - If a target is behind multiple sources of cover, only the most protective degree of cover applies
 
-<div class='footnote'>PART 6 | REFERENCE & REMINDER</div>
+<div class='footnote'>PART 7 | REFERENCE & REMINDER</div>
 
 \pagebreakNum
 
@@ -1411,7 +1411,7 @@ If you roll a 20 on the d20, you immediately regain 1 hit point.
  
  <style>
    /** Change the p2 to whatever page number is the last page in your document **/
-   .phb#p32:after { display:none; }
+   .phb#p29:after { display:none; }
  </style>
  
  <div class='back-cover-image'></div>
