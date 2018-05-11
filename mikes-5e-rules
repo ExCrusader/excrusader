@@ -1,0 +1,1406 @@
+<style>
+  .phb#p1{ text-align:center; }
+  .phb#p1:after{ display:none; }
+</style>
+
+<div style='margin-top:450px;'></div>
+
+<h1>Mike's Game House Rules</h1>
+
+<div style='margin-top:25px'></div>
+<div class='wide'>
+##### Dice Rolls are always rolled at the Game Table. Beacause you’re a dirty cheater.
+</div>
+\page
+# Table of Contents
+<div class='toc'>
+- **[1 Table of Contents](#p2)**
+- **[2 Character Creation](#p3)**
+  - [2.1 Checklist](#p3)
+  - [2.2 Variant Inspiration Rules](#p3)
+  - [2.3 History Alternatives](#p3)
+    - [2.3.1 Research](#p3)
+    - [2.3.2 Educated Only](#p3)
+  - [2.4 7th Ability: Sanity](#p4)
+- **[3 Skills](#p5)**
+  - [3.1 Tools and Skills Together](#p5)
+  - [3.2 Skill Proficiency](#p5)
+  - [3.3 Taking Ten](#p5)
+  - [3.4 Trying Again](#p5)
+  - [3.5 Dwarven Stonecunning](#p5)
+  - [3.6 Learning Skill Tricks](#p6)
+    - [3.6.1 Acrobatics [Adventuring Skill]](#p6)
+    - [3.6.2 Animal Handling [Adventuring Skill]](#p6)
+    - [3.6.3 Arcana [Knowledge Skill]](#p6)
+    - [3.6.4 Athletics [Adventuring Skill]](#p6)
+    - [3.6.5 Deception [Social Skill]](#p6)
+    - [3.6.6 Dungeoneering [Knowledge Skill]](#p6)
+    - [3.6.7 Engineering [Knowledge Skill]](#p7)
+    - [3.6.8 History [Knowledge Skill]](#p7)
+    - [3.6.9 Insight [Social Skill]](#p7)
+    - [3.6.10 Intimidation [Social Skill]](#p7)
+    - [3.6.11 Investigation [Adventuring Skill]](#p7)
+    - [3.6.12 Medicine [Adventuring Skill]](#p7)
+    - [3.6.13 Nature [Knowledge Skill]](#p7)
+    - [3.6.14 Perception [Adventuring Skill]](#p8)
+    - [3.6.15 Performance [Adventuring Skill]](#p8)
+    - [3.6.16 Persuasion [Social Skill]](#p8)
+    - [3.6.17 Religion [Knowledge Skill]](#p8)
+    - [3.6.18 Sleight of Hand [Adventuring Skill]](#p8)
+    - [3.6.19 Stealth [Adventuring Skill]](#p9)
+    - [3.6.20 Survival [Adventuring Skill]](#p9)
+- **[4 Experience & Levelling](#p10)**
+- **[5 Combat](#p11)**
+- **[6 Resting & Healing](#p15)**
+  - [6.1 Regaining Consciousness](#p15)
+  - [6.2 Sleeping in Armour](#p15)
+  - [6.3 Unconsciousness and Magical Healing](#p15)
+  - [6.4 Long Rests](#p15)
+- **[7 Social Conﬂict](#p16)**
+  - [7.1 Starting Attitude](#p16)
+  - [7.2 Resolving Social Conflict](#p16)
+    - [7.2.1 Step 1: Select the Participants](#p16)
+    - [7.2.2 Step 2: State the Terms](#p16)
+    - [7.2.3 Step 3: Disposition](#p17)
+    - [7.2.4 Step 4: Leverage & State of Mind](#p17)
+    - [7.2.5 Step 5: Strategy - Select Actions](#p17)
+    - [7.2.6 Step 6: Reveal Action](#p17)
+    - [7.2.7 Step 7: Resolve Actions / Make Social Rolls](#p18)
+    - [7.2.8 Step 8: Repeat for Second and Third Exchange](#p23)
+    - [7.2.9 Step 9: Repeat for Act II and Act III](#p23)
+    - [7.2.10 Concluding the Conflict](#p23)
+    - [7.2.11 Creature Proficiency Bonus](#p24)
+- **[8 Player Reference & Reminder Sheet](#p25)**
+  - [8.1 ](#p25)
+    - [8.1.1 Alignments](#p25)
+  - [8.2 Actions](#p26)
+    - [8.2.1 Move](#p26)
+    - [8.2.2 Drop Prone](#p26)
+    - [8.2.3 High Jump](#p26)
+    - [8.2.4 Climb](#p26)
+    - [8.2.5 Crawl](#p26)
+    - [8.2.6 Long Jump](#p26)
+    - [8.2.7 Grapple Move](#p26)
+    - [8.2.8 Swim](#p26)
+    - [8.2.9 Stand Up](#p26)
+    - [8.2.10 Attack](#p26)
+    - [8.2.11 Cast a Spell](#p27)
+    - [8.2.12 Climb onto a Bigger Creature](#p27)
+    - [8.2.13 Dash](#p27)
+    - [8.2.14 Disarm](#p27)
+    - [8.2.15 Disengage](#p27)
+    - [8.2.16 Dodge](#p27)
+    - [8.2.17 Use Shield](#p27)
+    - [8.2.18 Escape](#p27)
+    - [8.2.19 Grapple](#p27)
+    - [8.2.20 Help](#p28)
+    - [8.2.21 Hide](#p28)
+    - [8.2.22 Overrun](#p28)
+    - [8.2.23 Ready](#p28)
+    - [8.2.24 Search](#p28)
+    - [8.2.25 Shove](#p28)
+    - [8.2.26 Shove Aside](#p28)
+    - [8.2.27 Tumble](#p28)
+    - [8.2.28 Use an Object](#p28)
+    - [8.2.29 Off-Hand Attack](#p29)
+    - [8.2.30 Cast a Spell](#p29)
+    - [8.2.31 Opportunity Attack](#p29)
+    - [8.2.32 Readied Action](#p29)
+    - [8.2.33 Cast a Spell](#p29)
+    - [8.2.34 Free Actions](#p29)
+  - [8.3 Conditions](#p30)
+    - [8.3.1 Blinded](#p30)
+    - [8.3.2 Exhausted](#p30)
+    - [8.3.3 Incapacitated](#p30)
+    - [8.3.4 Petrified](#p30)
+    - [8.3.5 Restrained](#p30)
+    - [8.3.6 Charmed](#p30)
+    - [8.3.7 Frightened](#p30)
+    - [8.3.8 Invisible](#p30)
+    - [8.3.9 Poisoned](#p30)
+    - [8.3.10 Stunned](#p30)
+    - [8.3.11 Deafened](#p30)
+    - [8.3.12 Grappled](#p30)
+    - [8.3.13 Paralyzed](#p31)
+    - [8.3.14 Prone](#p31)
+    - [8.3.15 Unconscious](#p31)
+    - [8.3.16 Dying](#p31)
+    - [8.3.17 Stable](#p31)
+  - [8.4 Light, Vision, and Cover](#p32)
+    - [8.4.1 Lightly Obscured](#p32)
+    - [8.4.2 Heavily Obscured](#p32)
+    - [8.4.3 Bright Light](#p32)
+    - [8.4.4 Dim Light](#p32)
+    - [8.4.5 Darkness](#p32)
+    - [8.4.6 Blindsight](#p32)
+    - [8.4.7 Darkvision](#p32)
+    - [8.4.8 Truesight](#p32)
+    - [8.4.9 Half Cover](#p32)
+    - [8.4.10 Three Quarters Cover](#p32)
+    - [8.4.11 Full Cover](#p32)
+</div>
+<div class='pageNumber auto'></div>
+<div class='footnote'>TABLE OF CONTENTS</div>
+\page
+# Character Creation
+## Checklist
+1. Select Race and Class. Anything from an ofﬁcial Hardcover D&D rulebook is available, however all Subraces require DM approval. Variant Human is available. Any other material may be submitted case by case for approval.
+2. Roll 4D6 dropping the lowest, 6 times, and assign as desired to each Ability Score. If you do not like this set of Ability Scores, you may choose to discard the first set, and roll a second set (There’s no going back to that first set - those dice rolls are sacrificed to the dice gods for a merciful second try). If you do not like the second set, you may exchange them for the following default set of numbers: 15, 14, 13, 12, 10, 8. If you don’t like any of those options, go jump in a lake.
+3. Roll 4D6 and drop the lowest. This is your Sanity Score, a seventh Ability Score.
+4. Players may freely take Good alignments. Players that desire non-good alignments may discuss their concept and background with the DM. There is a limit to the number of non-good characters that may be part of the group. 
+5. Roll for Starting Wealth as per PHB pg 143. (Disregard Starting Equipment Options)
+6. Background tables do not need to be rolled randomly unless desired. Feel free to select options that compliment your concept. Don’t forget to create 2 Personality Traits for your character, in addition to your Bond, Ideal, and Flaw.
+7. You gain your Racial and Background Languages as normal. If you have a negative Intelligence Modifier, you are illiterate in those languages, but may learn to read and write in the same way that a character learns new languages during the campaign. Your Intelligence Modifier determines the maximum number of additional Languages you can learn during the campaign (not including starting languages).
+
+## Variant Inspiration Rules
+Every character begins each session with Inspiration, which is a thing you either have or you don’t.
+
+If you have Inspiration, you can spend it at any time to take an Inspired Action provided that action somehow ties into one of your character’s personal characteristics - Bond, Ideal, Flaw, or either of your 2 Personality Qualities. If your Ideal is “I will do anything to save a person in danger,” and you want to swing across a ravine on a vine to rescue someone who is about fall into the ravine and hanging by one hand, that ﬁts. You can make it an Inspired Action.
+
+When you take an Inspired Action, you can either gain advantage on an ability check, attack roll, or saving throw, OR you can give advantage to someone else’s ability check, attack roll, or saving throw provided you are in a position to assist them directly in some way, OR you can impose disadvantage on someone else’s ability check, attack roll, or saving throw provided you are in a position to hinder their action directly in some way, OR you can gain +1D6 on a Roll in Social Conﬂict. Whatever it is, the Inspired Action MUST somehow connect to one of your Personal Characteristics, and you must describe the moment dramatically!
+
+When you don’t have Inspiration, you can Claim a Setback to gain Inspiration. To Claim a Setback you must either impose disadvantage on one of your own ability checks, saving throws, or attack rolls based on one of your Personal Characteristics, OR make a decision that creates a signiﬁcant story setback, obstacle, or hindrance. When you want to Claim a Setback, simply state why you think a Setback makes sense for your character, and the GM will reward you accordingly (with Inspiration, or nothing). After you Claim a Setback, you get Inspiration.
+
+You can then use this Inspiration to take another Inspired Action.
+
+## History Alternatives
+Any time your character has an opportunity during character creation to take proficiency in History, you may instead choose to gain proficiency in a field of Intellectual study of your choice. Creativity is encouraged, and there are many possibilities. If you are able to gain proficiency in History multiple times, you may choose to acquire multiple Knowledge skills. Each Knowledge Skill should encompass a breadth of knowledge similar to that described by the History Skill. Feel free to create new fields of knowledge. All Knowledge Skills include the following 2 Features:
+
+### Research
+With 1D10 days of study, and access to a store of information, such as a library, specialized sages, or some similar resource, a character may gain Advantage on a Knowledge Skill check, and may repeat a previously failed Knowledge Skill check with Advantage.
+
+### Educated Only
+Knowledge skills are at Disadvantage when used by nonproficient characters. The layman may have some trivia rolling around in his head, but will not be as consistently well versed as an educated individual. No effect can provide Advantage to a Knowledge check for which you do not have proficiency.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | CHARACTER CREATION</div>
+\page
+## 7th Ability: Sanity
+Various magical and supernatural effects can inﬂict madness on an otherwise stable mind. Certain spells, such as contact other plane and symbol, can cause insanity. Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inﬂict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
+
+Each character must roll for a 7th Ability Score called Sanity. Roll 4D6 and drop the lowest die.
+
+A character with a high Sanity is level-headed even in the face of insane circumstances, while a character with low Sanity is unsteady, breaking easily when confronted by eldritch horrors that are beyond normal reason. You might be asked to make a Sanity check in place of an Intelligence check when dealing with forces, puzzles, and creatures that reach beyond the realm of logic and reality.
+
+A failed Sanity save might result in short-term, longterm, or indeﬁnite madness. Any time a character suffers from long-term or indeﬁnite madness, the character's Sanity is reduced by 1. A greater restoration spell can restore Sanity lost in this way, and a character can increase his or her Sanity through level advancement. Madness is measured in three levels:
+
+##### Madness Levels
+| Level | Effect                                            |
+|:------|:--------------------------------------------------|
+| 1     | Bout of short-term madness (lasts ld10 minutes)   |
+| 2     | Bout of long term madness (lasts ld10 x 10 hours) |
+| 3     | Bout of indeﬁnite madness (lasts until cured)     |
+
+A creature's madness level starts at 0. When a creature fails a madness saving throw, its madness level increases by l, and the creature immediately suffers the effect (as determined by rolling on the appropriate Madness Table). When the effect ends. the creature’s madness level doesn't change. Any time the creature‘s madness level increases, it suffers the effect at the new level.
+
+If a creature with level 3 madness fails a madness saving throw, its madness level becomes 1. In this way, characters can potentially accumulate multiple forms of indeﬁnite madness.
+
+A calm emotions spell can suppress the effects of madness, while a lesser restoration spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, remove curse or dispel evil might also prove effective. A greater restoration spell or more powerful magic is required to rid a character of indeﬁnite madness.
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | CHARACTER CREATION</div>
+\page
+# Skills
+## Tools and Skills Together
+Tools have more specific applications than skills. The History skill applies to any event in the past. A tool such as a forgery kit is used to make fake objects and little else. Thus, why would a character who has the opportunity to acquire one or the other want to gain a tool proficiency instead of proficiency in a skill? One of the following 3 effects may apply to skill use when the DM rules that a skill test would benefit from both Skill Proficiency as well as Proficiency with a particular set of Tools. Players are also welcome to present a case for Tools to be applied alongside a Skill, especially when the DM might not immediately recall what Tools a character has access to.
+
+1. Additional Insight: If the use of a tool and the use of a skill both apply to a check, and a character is proficient with the tool and the skill, the character could be granted advantage. This benefit is often expressed as additional insight on to how to apply the tolls to the task at hand. In this case, the Skill that is supporting the Tools.
+2. Simpliﬁed Task: The combination of skill plus the right tools for the job could make the overall task easier. It may make good sense to knock the difficulty of the check down by one level (which reduces the DC by 5). In this case, it is the Tools that support the Skill.
+3. Added Beneﬁt: Characters who have both a relevant skill and a relevant tool proficiency may receive an added benefit on a successful check. This benefit might be in the form of more detailed information or could simulate the effect of a different sort of successful check. For example, a character proficient with mason’s tools makes a successful Wisdom (Perception) check to find a secret door in a stone wall. Not only does the character notice the doors presence, but you decide that the tool proficiency entitles the character to an automatic success on an Intelligence (Investigation) check to determine how to open the door.
+
+### Skill Proficiency
+**Characters may make checks in ANY SKILL regardless of Proﬁciency.** 
+The only exclusions to this is with respect to Knowledge Skills, which now have the Educated feature. Educated states that nonproficient characters roll skill checks with Knowledge Skills at Disadvantage. Skills are categorized into 3 groups: Adventuring Skills, Social Skills, and Knowledge Skills. 
+
+Adventuring Skills are used by the character to interact with the environment. Each Adventuring Skill has 3 special Skill Tricks that can be learned by those who are proficient in the skill. 
+
+Social Skills are used by the character to interact with other intelligent creatures. Each Social Skill also has 3 special Skill Tricks that can be learned by those who are proficient in the skill. 
+
+Knowledge Skills segment the world into categories of information and understanding. Knowledge Skills have no Skill Tricks, but do have the Research, and Educated features. Knowledge Skills include Lore, which details the creature types or categories of things that the knowledge is best qualified to identify.
+
+### Taking Ten
+In cases where there is minimal consequence to failure and no urgency for a high level of success, a player may ask the DM to take 10. If permitted, simply use a “Passive” check result as though you rolled a 10.
+
+### Trying Again
+For many skill checks, success or failure will be an obvious outcome, and there will be no question of “trying again”. Often, the consequence of failure is enought to moderate the number of attempts a character is willing to make. However, some efforts can, by matter of fact and logic, be attempted multiple times at no risk. For example, an individual with lock picks could work on a challenging lock for days… months… or even longer. Skills abide by one of the following rules for repeated attempts.
+
+##### Unlimited
+Simply put, the character is free to keep trying over and over. For simplicity, if there is no time limitation, urgency, or consequence of failure, a “Take 20” will be allowed, in order to keep the game moving along.
+
+##### Limited
+In this situation, failure is deﬁnitive. The character is simply unable to succeed regardless of retries. This is often the case with Intelligence based skills, where the character either knows something, or does not. No further attempts are permitted after the initial one. The character may be granted an additional LIMITED attempt at the check if conditions improve in some way (such as by researching a failed Arcana check at a library). 
+
+### Swimming in Armour 
+Any armour that imposes Disadvantage on Stealth, also imposes Disadvantage on Swimming. A character wearing armour that imposes Disadvantage on Swimming will sink if Heavily Encumbered, at a rate of 20’ per turn. This downward movement is in addition to the character’s Swimming Movement.
+
+### Dwarven Stonecunning
+In the description for Stonecunning, replace Intelligence (History) with Intelligence (Engineering)
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | SKILLS</div>
+\page
+### Learning Skill Tricks
+At Level 1, and then again at every level that your Proﬁciency Bonus increases (+3, +4, +5, and +6), you may learn a Skill Trick in one Adventuring or Social skill at which you are Proﬁcient. You may learn multiple Tricks in the same skill, or select Tricks from different skills.
+
+#### Acrobatics [Adventuring Skill]
+Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship's deck. The DM might also call for a Dexterity (Acrobatics) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and ﬂips. 
+
+**Dropping Down:** You know how to take a fall. When intentionally dropping down to a lower elevation the character may reduce the distance of the fall by 10’ for purposes of calculating damage.
+
+**Light Step:** Using parkour techniques, agile footwork, and a good hop when needed, you are able to avoid treacherous footing and obstacles. During your turn, you may disregard difﬁcult terrain in one 5’ square.
+
+**Kip Up:** You are able to quickly get to your feet using one of several martial techniques. A prone character with this ability may get up from a prone position by using Acrobatics as a Bonus Action.
+
+### Animal Handling [Adventuring Skill]
+When there is any question whether you can calm down a domesticated animal, keep a mount from getting spooked, or intuit an animal’s intentions, the DM might call for a Wisdom (Animal Handling) check. You also make a Wisdom (Animal Handling) check to control your mount when you attempt a risky maneuver, or issue a command to a pet. Animal Pets know the following Tricks and may be commanded to execute them as a Free Action: Stay, Come, and Attack. A character may issue the same command to multiple animals with one action.
+
+**Wild Empathy:** It takes a bit of caution and care, but you handle wild animals as well as domestic ones. You may attempt to calm wild animals as well as domestic, provided they are not attacking.
+
+**Mount Attack:** You are acquainted with the use of combat trained mounts in battle. Your character grants his mount the ability to use the Attack Action.
+
+**Obedience Training:** A character in possession of an animal or companion of low Intelligence (3 or less) may teach it a number of additional Tricks equal to his Wisdom Modiﬁer.
+
+### Arcana [Knowledge Skill]
+Your Intelligence (Arcana) check measures your ability to recall lore about spells, magic items, eldritch symbols, magical traditions, famous spellcasters, and the like.
+
+**Monster Lore:** Construct, Dragon, Magical Beast, or Monstrocity 
+
+**Research:** With 1D10 days of study, and access to a store of information, such as a library, specialized sages, or some similar resource, a character may gain Advantage on a Knowledge Skill check, and may repeat a previously failed Knowledge Skill check with Advantage.
+
+**Educated:** Knowledge skills are at Disadvantage when used by nonproﬁcient characters. The layman may have some trivia rolling around in his head, but will not be as consistently well versed as an educated individual.
+
+### Athletics [Adventuring Skill]
+Your Strength (Athletics) check covers difﬁcult situations you encounter while climbing, jumping. or swimming. 
+
+**Strong Swimmer:** You have mastered several advanced swimming strokes, and are particularly comfortable in the water. While wearing No Armour, the character makes Strength (Athletics) checks to swim at Advantage.
+
+**Weight Training:** You are less concerned with the burden of your pack, thanks to a regiment of lifting and resistance training. For purposes of determining your levels of Encumbrance, you may consider your Strength 2 higher. 
+
+**Long Jumper:** Maybe your village was fond of distance jumping as local entertainment, or perhaps you grew up leaping the Springﬁeld Gorge as you travelled to and from your favourite ﬁshing hole each day. You may add 1D4 feet to your Long Jump distance, but end your movement prone.
+
+### Deception [Social Skill]
+Your Charisma (Deception) check determines whether you can convincingly hide the truth, either verbally or through your actions. This deception can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass yourself off in a disguise, dull someone's suspicions with false assurances, or maintain a straight face while telling a blatant lie. 
+
+**Omit (Deception vs Insight):** If Insight is all about gathering information and ammunition, Deception [Omit] is its Achilles’ Heel. By removing those bits of essential information, Insight is rendered useless. On this Opposed Roll, remove any of your opponent’s successful dice that rolled “6”.
+
+*Speaking the Part: During your conversation in this Action, replace 3 nouns with the word “BLANK”.*
+
+**Lie (Deception vs Persuasion):** So you don’t really have a good point to make? Well just make one up! Fabricating facts with a Deception [Lie] is an excellent way to create conversational ammunition, and with a lack of substantiating material, can be a real pain for your opponent to deal with logically. For this roll, increase your dice pool by your Intelligence Modifier. For each additional use of the Lie Trick, the bonus decreases by 1. 
+
+*Speaking the Part: Very simple, just make up 1 completely unsupported fact.*
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | SKILLS</div>
+
+
+\page
+
+**Rhetoric (Deception vs Intimidate):** Rhetoric is nothing more than a confusing distraction, and can be very frustrating for your opponent… especially when they are trying to beat very specific points into you. When executed correctly, the judicious application of Deception [Rhetoric] can deviate that raving lunatic off onto completely irrelevant tangents. Your opponent’s “Gain Momentum” effect is limited to a maximum of 2.
+
+*Speaking the Part: Everytime your opponent speaks, change the subject.*
+
+### Dungeoneering [Knowledge Skill]
+Your Intelligence (Dungeoneering) check measures your ability to recall lore about subterranean features, climbing techniques, cavern dangers, underground geology, and formations.
+
+**Monster Lore:** Ooze or Aberration 
+
+**Research:** With 1D10 days of study, and access to a store of information, such as a library, specialized sages, or some similar resource, a character may gain Advantage on a Knowledge Skill check, and may repeat a previously failed Knowledge Skill check with Advantage.
+
+**Educated:** Knowledge skills are at Disadvantage when used by nonproﬁcient characters. The layman may have some trivia rolling around in his head, but will not be as consistently well versed as an educated individual.
+
+### Engineering [Knowledge Skill]
+Your Intelligence (Arcana) check measures your ability to recall lore about architecture, complex machinery, renowned castles and fortresses, masonry, and the like.
+
+Design Lore: Structures or Devices 
+
+Research: With 1D10 days of study, and access to a store of information, such as a library, specialized sages, or some similar resource, a character may gain Advantage on a Knowledge Skill check, and may repeat a previously failed Knowledge Skill check with Advantage.
+
+Educated: Knowledge skills are at Disadvantage when used by nonproﬁcient characters. The layman may have some trivia rolling around in his head, but will not be as consistently well versed as an educated individual.
+
+### History [Knowledge Skill]
+Many characters will have the opportunity to take proﬁciency in the History skill. Your Intelligence (History) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.
+
+Monster Lore: Humanoid 
+
+Research: With 1D10 days of study, and access to a store of information, such as a library, specialized sages, or some similar resource, a character may gain Advantage on a Knowledge Skill check, and may repeat a previously failed Knowledge Skill check with Advantage.
+
+Educated: Knowledge skills are at Disadvantage when used by nonproﬁcient characters. The layman may have some trivia rolling around in his head, but will not be as consistently well versed as an educated individual.
+
+### Insight [Social Skill]
+Your Wisdom (Insight) check decides whether you can determine the true intentions of a creature, such as when searching out a lie or predicting someone’s next move. Doing so involves gleaning clues fram body language, speech habits, and changes in mannerisms.
+
+Dismiss (Insight vs Intimidate): You will not be the victim of such beratement and bullying tactics! Insight [Dismiss] is the ultimate defensive weapon against an opponent on a tirade. If you lose the Opposed Roll, you may reduce your opponent’s net success by your Wisdom Modifier..
+
+Speaking the Part: Permitted responses include: “Pffft”, “How dare you!”, *eyeroll*, or giving ‘the hand’.
+
+Observe (Insight vs Deception): You suspect this person of spewing nothing but falsehoods and misdirection… how dirty! When you use Insight [Observe] against Deception, you recover 1 point of Disposition for every “1” rolled by your opponent .
+
+Speaking the Part: You don’t speak at all, but you must squint suspiciously at anything that seems like a lie.
+
+Rebut (Insight vs Persuasion): When a character uses Insight [Rebut] against Persuasion, the result is an exciting display of point and counterpoint. If you roll more successes than your opponent, you may choose to resolve this action as an Opposed Roll instead of an Independent Roll.
+
+Speaking the Part: You must say “But I digress” at the end of your replies.
+
+### Intimidation [Social Skill]
+When you attempt to influence someone through overt threats, hostile actions, and physical violence, the DM might ask you to make a Charisma (Intimidation) check. Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, ar using the edge of a broken bottle to convince a sneering vizier to reconsider a decision.
+
+Rant (Intimidate vs Deception): Falsehoods are great when they subtly season a conversation like pepper. An Intimidation [Rant] is an overreaction to everything that bothers you about the subject matter, and nothing bothers you more than unsupported and erroneous facts. You don’t let Deception misdirect you, you steamroll right over it. You may discard 1 successful die roll to eliminate 2 of your opponent’s successful dice rolls.
+
+Speaking the Part: Reply to your opponent then add “And another thing!…” then complain about something else.
+
+Interrogate (Intimidate vs Insight): Mild and defensive, Insight can be infuriating when you just want to have a nice straightforward, red-faced, spittle-flying argument. Intimidate [Interrogate] is just the thing for this, browbeating your opponent into participating, even if all he wants to do is sit back and stroke his chin like a bloody headshrink. For every failed die rolled by your opponent, you may immediately add that die to your dice pool and roll, adding successes to your result as though you had rolled it in the initial roll. 
+
+Speaking the Part: Anytime you want your opponent to say something, tell him to do so!
+
+Coerce (Intimidate vs Persuasion): Coercion against a persuasive opponent will challenge every point, and where you lack a valid counterpoint, you instead use a threat or insult. Your Intimidate [Coerce] action attempts to rattle your opponent, and make him wonder if perhaps, he IS being an idiot. Maybe he really is wrong for disagreeing with such a clearly and loudly voiced opinion. And he should be much more concerned about the integrity of his skull and kneecaps. Roll an Independent Intimidate Roll and consult the Intimidate table. Your maximum successes equals your Strength Modifier
+
+Speaking the Part: Hurl at least 1 insult, or make at least 1 physical threat.
+```
+```
+### Investigation [Adventuring Skill]
+When you look around for clues and make deductions based on those clues, you make an Intelligence (Investigation) check. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient scralls in search of a hidden fragment of knowledge might also call for an Intelligence (Investigation) check.
+
+Mechanical Mind: Upon discovering a secret or hidden object, the character automatically learns something of it’s operation. He does not require a second check to determine triggers or opening mechanisms.
+
+Focused Search: When the investigator searches a speciﬁc object or area within no larger than a 10’ cube, he will automatically know if he fails his search by a margin equal to, or less than, his Intelligence modiﬁer.
+
+Super Sleuth (Social Conﬂict): The Investigator is skilled at getting to the truth, and drawing out the facts. He may use Investigation in place of Persuasion when engaged in Social Conﬂict.
+
+### Medicine [Adventuring Skill]
+A Wisdom (Medicine) check lets you try to stabilize a dying companion or diagnose an illness.
+
+First Aid: The character may apply First Aid to 1 patient per Wisdom modiﬁer during a Long Rest. Such patients may reroll any dice that result in a natural “1” at the end of a Long Rest (Step 3). Re-rolls that result in 1 may not be re-rolled a second time.
+
+Doctor’s Bag: Anytime the character chooses to make a Medicine check that normally doesn’t require the use of a Healer’s Kit, he may expend one use of the kit to gain Advantage.
+
+Anatomy: The character has a keen understanding of health and inury, which translates into how the player is able to discuss hit points and ability scores with other players. This character may speak with other players using speciﬁc numeric Hit Points and Ability score values.
+
+### Nature [Knowledge Skill]
+Your Intelligence (Nature) check measures your ability to recall lore about terrain, plants and animals, the weather. and natural cycles.
+
+Monster Lore: Beast, Fey, Plant, Giant, or Magical Beast 
+
+Research: With 1D10 days of study, and access to a store of information, such as a library, specialized sages, or some similar resource, a character may gain Advantage on a Knowledge Skill check, and may repeat a previously failed Knowledge Skill check with Advantage.
+
+Educated: Knowledge skills are at Disadvantage when used by nonproﬁcient characters. The layman may have some trivia rolling around in his head, but will not be as consistently well versed as an educated individual.
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | SKILLS</div>
+\page
+### Perception [Adventuring Skill]
+Your Wisdom (Perception) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses.
+
+Sense Movement: When you attack a square in order to strike an unseen opponent, you will know if there was an unseen entity in the square, even if your attack misses. The only time this does not work, is when the unseen target leaves no peceptible sign (no smell, sound, nor even gust of air as it moves).
+
+Light Sleeper: The character may wake up from sleep with even the softest disturbance or sound. He does not need to be shaken, or exposed to loud noises, and may choose to wake up as an Action.
+
+Marksman: The character may use a Bonus action to Take Aim, which doubles Short Range on the next shot taken that round. For Example, a Light Crossbow’s normal range is 80/320. A Marksman may use a Bonus Action to turn it into range 160/320 for his next shot on that same round.
+
+### Performance [Adventuring Skill]
+Your Charisma (Performance) check determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.
+
+Read the Crowd: You’ve learned how to read your audience, and do likewise in simple conversation. Any time you are participating in a Social Conﬂict, you may add +1 to your side’s Disposition. This bonus may only be claimed once per side.
+
+Masterpiece: If the character rolls a natural “20” on a Performance check, it is considered a Masterpiece. For the 5 minutes following the performance, the character has Advantage on any Charisma based checks against creatures that attended the performance 
+
+Barnstorm: You can always ﬁnd a place to play and earn a few coin - even without proper permits and papers. With just an hour, you can usually cover your costs for the evening and the day. Make a Performance check and consult the Impromptu Performance table:
+
+##### Impromptu Performance
+| Performance Check  | Earnings  |  Lifestyle for the Day                                                                                                                    |
+|:----:|:--------------------------------------------------------------------------------------------------------------------------|
+| Less than 5   | Jailed for an Unsanctioned Public Display | Wretched*                                                   |
+| 5   | 1D6 x Charisma Modifier in Copper Pieces | Squalid                                                                          |
+| 10  | 1D6 x Charisma Modifier in Silver Pieces | Poor                                                                         |
+| 15  | 2D6 x Charisma Modifier in Silver Pieces | Modest                                                                   |
+| 20  | 3D6 x Charisma Modifier in Silver Pieces | Comfortable
+
+| 25  | 4D6 x Charisma Modifier in Silver Pieces | Wealthy                                                         |
+| 30  | 5D6 x Charisma Modifier in Silver Pieces | Aristocratic
+
+*The character emerges the following mid-day with only the benefit of a Short Rest, and has gained a Level of Exhaustion.
+
+```
+```
+
+### Persuasion [Social Skill]
+When you attempt to influence someone or a group of people with tact. social graces, ar good nature, the DM might ask you to make a Charisma (Persuasion) check. Typically, you use persuasion when acting in good faith, to foster friendships, make cordial requests, ar exhibit proper etiquette. Examples of persuading others include convincing a chamberlain to let your party see the king, negotiating peace between warring tribes, ar inspiring a crowd of townsfolk.
+
+Debate (Persuasion vs Insight): A character using Persuasion [Debate] against Insight is prepared for all of the opponent’s  technical wordplay and logical maneuvering. In the skill roll, you benefit from a +1 Success Modifier and your opponent suffers from a -1 Success Modifier.
+
+Speaking the Part: You must use the word “therefore”, “thus”, or “ergo” to show how intelligent your point is.
+
+Pander (Persuasion vs Deception): Nothing spoils a perfectly good lie more than an opponent who is attempting to flatter regardless of what is being said. When Persuasion [Pander] is used against Deception, the opponent is left particularly stymied. Discard as many of your successful dice as desired. If your opponent loses the Opposed Roll, he suffers a Dice Pool penalty to his Deception skill for the remainder of the Conflict. The size of this penalty is -1 for each discarded die.
+
+Speaking the Part: You must give at least one compliment to your opponent.
+		
+Assert (Persuasion vs Intimidate): When getting bullied by an opponent that’s loud, and interruptive, it is essential that you use your limited windows to be clear and concise. Even an opponent tearing through a relentless diatribe must stop for a breath. Against an Intimidating opponent, use Persuasion [Assert] to cut through the noise. You may make an Opposed Roll against your Opponent using Intelligence [Persuasion] instead of Charisma. Your opponent reduces any net successes to zero.
+
+Speaking the Part: You must repeat yourself at least once.
+
+### Planar Lore [Knowledge Skill]
+Your Intelligence (Planar Lore) check measures your ability to recall lore about the planes of existence, dimensional travel, and the inhabitants of those planes.
+
+Monster Lore: Celestial, Elemental, or Fiend 
+
+Research: With 1D10 days of study, and access to a store of information, such as a library, specialized sages, or some similar resource, a character may gain Advantage on a Knowledge Skill check, and may repeat a previously failed Knowledge Skill check with Advantage.
+
+Educated: Knowledge skills are at Disadvantage when used by nonproﬁcient characters. The layman may have some trivia rolling around in his head, but will not be as consistently well versed as an educated individual.
+
+### Religion [Knowledge Skill]
+Your Intelligence (Religion) check measures your ability to recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults. 
+
+Monster Lore: Undead 
+
+Research: With 1D10 days of study, and access to a store of information, such as a library, specialized sages, or some similar resource, a character may gain Advantage on a Knowledge Skill check, and may repeat a previously failed Knowledge Skill check with Advantage.
+
+Educated: Knowledge skills are at Disadvantage when used by nonproﬁcient characters. The layman may have some trivia rolling around in his head, but will not be as consistently well versed as an educated individual.
+
+### Sleight of Hand [Adventuring Skill]
+Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check. The DM might also call for a Dexterity (Sleight of Hand) check to determine whether you can lift a coin purse off another person or slip something out of another person's pocket.
+
+Hidden Blade: The character is able to completely conceal a single light weapon on his person. The weapon is undetectable even by pat down or and close personal inspection short of a full strip-down search.
+
+Subtle Cheater: You have a knack for taking advantage of misdirection and poor attention in games of skill and chance that involve “pieces & parts”, such as with cards, dice, dragonchess, and the like. If the character chooses to cheat using Sleight of Hand, he may choose to reroll any checks made while gaming. However, if either die comes up a “natural 1”, his cheating has been detected.
+
+Nimble Fingers: The character may choose to take a disarmed object into a free hand rather than have if fall to the ground. Use the Disarm rules as normal.
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | SKILLS</div>
+\page
+### Stealth [Adventuring Skill]
+Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being notieed, or sneak up on someone without being seen or heard.
+
+Swift Stealth: The character is adept at moving not just secretly, but swiftly. This character does not suffer disadvantage when moving stealthily at normal movement speed. Note that Overland Movement must still be at a Slow pace when moving with Stealth (even if the entire party is proficient). 
+
+Shadowstrike: Anytime this character attacks a target who did not know he was there, he may choose to reroll his weapon damage die and abide by the resulting roll.
+
+Still as Death: As long as the character remains motionless, he gains Advantage on Stealth checks made to Hide. All other requirements for Hiding apply. Should the character choose to move, he must make a normal Stealth check to Hide.
+
+### Survival [Adventuring Skill]
+The DM might ask you to make a Wisdom (Survival) check to follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and olher natural hazards. Characters should select 1 Favoured Terrain with which he is most comfortable with (If a class with the Natural Explorer ability, this will be the same terrain type). Terrain types include arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. Survival Skill Tricks only apply within a character’s Favoured Terrain.
+
+Survivorman: The survivalist is not only accustomed to harsh climates, but is also adept at preparing for weather related hardships like extreme heat and cold. He uses his gear, natural remedies, and travel hacks. Within his favoured terrain, the character and a number of companions up to his Wisdom Modifier, have Advantage on all saving throws against Temperature and Weather to prevent Exhaustion.
+
+Familiar Ground: Once per day per Wisdom Modifier, the survivalist may double his Proficiency Bonus on a Survival check made within his favoured terrain. 
+
+Superior Campsites: When guided by a Survivalist within his favoured terrain, a campsite with extra benefits can be found. The camp may not house more creatures than the survivalist’s Survival skill (Attribute Mod + Proficiency + Other Modifiers). The nature of the superior camp is determined by rolling a D8:
+
+1-3) Normal Camp The campsite features a central location where a ﬁre can be built. There are ample locations for campers to lay on the ground, and a well placed boulder or stump makes for an excellent seat. It’s a good campsite, but grants no special beneﬁt.
+
+4) Invisible Camp The camp is tucked into an undetectible nook with ample coverage. The ﬁre is banked and the wind is favourable. The campsite and those camping cannot be discovered except by magical means, unless they do something that draws attention to their position.
+
+5) Convalescent Camp The campsite is near fresh water, clear air, and is both relaxing and comfortable. At the end of the Long Rest, all campers may reroll any dice they wish from the results of their Hit Point Recovery. Rerolls may not be rerolled a second time. In addition, any Disease or Poison related saves that occur at the end of the Long Rest have Advantage.
+
+6) Supply Camp Rangers and Druids have long made practice of planting supply caches for their fellows, as well as for those weary travellers that know what signs to look for. The supply camp offers a well concealed trove of helpful supplies. For the contents of the cache, the survivalist may select 1 item of 50gp value or less from the PHB Adventuring Gear list, in addition to ﬁnding 8 poinds of dried rations, 1 full waterskin, and 1 day’s worth of ﬁrewood.
+
+7) Restful Camp A refreshing breeze passes through the camp, and only a hint of crickets chirping, or a brook babbling, or an occasional nightbird can be heard. As long as nothing interrupts the Long Rest, the campers recover all of their used Hit Dice instead of only half, and may remove 2 levels of exhaustion.
+
+8) Bountiful Camp The camp grounds offer a wealth of clean water and food. All campers that are proﬁcient in Survival treat foraging that day as though food and water are Abundant. In addition, any forager proﬁcient in Survival may exchange 1 roll for food or water to instead replensish their Healer’s Kit with uses of medicinal herbs. Alternatively, if a character proﬁcient in Survival as well as a Poisoner’s Kit may instead exchange 1 roll to craft the equivalent of a dose of Snake or Carrion Crawler Venom (as per the DMG) using some poisonous creature or recently perished corpse.
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 2 | SKILLS</div>
+\page
+# Experience & Levelling
+Earning Experience Points
+You gain experience points through activities that identify fantasy adventuring: exploration, social interaction, and combat. In this system, you need 100 Experience Points to Level Up regardless of your level. Each of the 3 categories has a maximum of 40, so it is essential that the group engage in all three components of fantasy adventure. When you level up, any extra experience points are discarded, and the “counter” resets to 0 (at which point you need another 100 Experience Points to level). 
+
+Characters are categorized by a Tier of play based on their level.
+
+		Tier 1: Character Level 1-4
+		Tier 2: Character Level 5-10
+		Tier 3: Character Level 11-16
+		Tier 4: Character Level 17-20
+
+Exploration
+You gain XP for claiming magical objects & treasure, dealing with traps & hazards, and exploring places of interest. Finding a treasure or exploring a location appropriate to your tier earns you 10 XP, plus an additional 5 XP for each tier above your current tier, or 5 XP less for each tier below. Traps have a Tier as well, based on the DMG scale of Inconvenient, Setback, Dangerous, and Deadly. Overcoming a trap of your tier earns you 10 XP, plus 5 XP for each tier above, or 5 XP less for each tier below.
+
+Treasure Hoards
+Valuable treasures and magic items are assigned to tiers as follows:
+
+Tier 1 Hoard: Contains up to 50 to 500gp in valuable coin and objects, and/or uncommon nonconsumable magic item(s)
+Tier 2 Hoard: Contains up to 5,000gp in valuable coin and objects, and/or rare nonconsumable magic item(s)
+Tier 3 Hoard: Contains up to 50,000gp in valuable coin and objects, and/or very rare nonconsumable magic item(s)
+Tier 4 Hoard: Contains up to 50,000+gp in valuable coin and objects, and/or legendary nonconsumable magic item(s)
+
+Sites of Interest 
+Locations aren’t fitted to tiers by any hard and fast rule. Rather, a location’s tier depends on its importance in the campaign. To be “explored”, a location must have it’s secrets revealed. It is not enough to simply stand at the entrance. If the party is prepared to answer such questions as the following, the location may be deemed Explored.
+
+Who: What creatures dwell within? Is an individual or organization in charge? 
+What: Define the nature of the place. Is it s military outpost? A dungeon? A village?
+Where: Can the group provide travel directions, and information regarding navigating through the place?
+Why: Why is this place important to the campaign? Or perhaps confirm that it isn’t?
+
+Social Interaction
+You gain experience points for socially encountering NPCs for the purpose of acquiring information, resources, or allies. When you do so, the experience you gain is based on the campaign relevance of both the NPC and the Terms of the exchange. It is important to note that success is not the main requirement for this XP, but an interesting and well roleplayed exchange is. Social Encounters are assigned to tiers as follows:
+
+Tier 1: Social exchange with no Social Conflict. A non-specific NPC or creature. Terms that are unconnected to the campaign
+Tier 2: A specific (named) NPC or creature. Terms are more than just peripherally relevant to the campaign task at hand
+Tier 3: An important campaign NPC or creature. Terms are important to progress of the campaign task at hand
+Tier 4: A powerful and key campaign NPC or creature. Terms are critical and essential to the group’s overall campaign success
+
+Half of the XP award is based on the NPC(s) involved, and the other half is based on the Relevance of the Terms. Tier 1 NPCs and Terms are worth 0 XP each. Tier 2 are worth 2 XP each. Tier 3 are worth 4XP each. Tier 4 are worth 7XP each. Winning a Social Conflict adds an XP bonus equal to the group’s remaining Disposition at the conclusion of the Conflict.
+
+Combat
+You gain XP for defeating monsters in combat, whether by slaying them or leaving them in a state in which they pose no threat. The XP you gain for defeating a monster is determined by the Encounter Difficulty (as per the DMG). You gain 5 XP for an Easy Encounter, 10 XP for a Medium Encounter, 15 XP for a Hard Encounter, and 25 XP for a Deadly Encounter. Encounters that don’t qualify as at least Easy Encounter Difficulty, are worth 0 XP
+\page
+
+# Combat
+#### Exceptional and Poor Initiative
+On a Roll of a natural “20” for Initiative, you may automatically participate in a Surprise Round even if your group was surprised. If there is no Surprise Round, you gain Advantage on your Action in the First Round of Combat. Similarly, on a natural “1”, you count as Surprised for the First Round of Combat.
+
+#### Movement In Threatened Squares
+Threatened Squares are treated as difﬁcult terrain for purposes of movement. You may choose to ignore this, and move at regular speed, however this provokes an attack of Opportunity as though you were moving out of the enemy’s reach.
+
+#### Movement Through Friendly Squares
+Friendly Squares, like all squares that are occupied, are treated as difﬁcult terrain for purposes of movement. Don't look so surprised... this rule is from the book :P
+
+#### Diagonal Movement
+When measuring range or moving diagonally on a grid, the ﬁrst diagonal square counts as 5 feet, but the second diagonal square counts as 10 feet. This pattern of 5 feet and then 10 feet continues whenever you’re counting diagonally, even if you move horizontally or vertically between different bits of diagonal movement. For example, a character might move one square diagonally (5 feet), then three squares straight (15 feet), and then another square diagonally (10 feet) for a total movement of 30 feet. Everybody already knows how this works.
+
+A diagonal movement is not possible unless both squares to either side of the diagonal move are passable. If one or both are considered difﬁcult terrain, the diagonal move costs an extra 5’ of movement (so the one square of movement requires either 10’ or 15’ depending on the previous diagonal move, if any). This means a character cannot freely move diagonally around the corner of a corridor, or across the corner of an enemy square, for example, because the movement effectively goes through wall, or through an enemy square, respectively.
+
+#### Spellcasting in Close Combat
+Casting a spell is more difﬁcult when a foe threatens you. When you attempt to cast a spell with Somatic components while within 5 feet of a hostile creature who can see you and who isn’t incapacitated, your spellcasting provokes an Attack of Opportunity. If you are missed, your spell goes off as intended. If you are hit, you must make a Defensive Casting check. This check is a Constitution saving throw with a DC equal to 10 + the spell’s level, or half of the damage taken, whichever number is higher. If you pass the saving throw, or the enemy misses you on the attack of opportunity, your spell goes off as intended.
+
+Don’t forget, an Attack of Opportunity requires a Reaction to do. Pay attention to your foes, and note which opponents have a Reaction available, and which do not.
+```
+```
+
+#### Climb Onto a Bigger Creature
+If one creature wants to jump onto a suitably large opponent (at least 1 size larger), it can be treated as terrain for the purpose of jumping onto its back or clinging to a limb. After making any ability checks necessary to get into position and onto the larger creature, the smaller creature uses its action to make a Strength (Athletics) or Dexterity (Acrobatics) check contested by the target's Dexterity (Acrobatics) check. If it wins the contest, the smaller creature successfully moves into the target creature's space and clings to its body. While in the target's space, the smaller creature moves with the target and has advantage on attack rolls against it. When the larger creature moves, it can drag or carry the smaller creature, but its speed is halved, unless it is more than one size larger than you.
+
+The smaller creature can move around within the larger creature's space, treating the space as difﬁcult terrain. The larger creature's ability to attack the smaller creature depends on the smaller creature’s location, and is left to the DM’s discretion. The larger creature can dislodge the smaller creature as an action - knocking it off, scraping it against a wall, or grabbing and throwing it - by making a Strength (Athletics) check contested by the smaller creature’s Strength (Athletics) or Dexterity (Acrobatics) check. The smaller creature chooses which ability it uses to resist.
+
+If a creature begins its turn on a larger creature, it must use a Bonus Action to remain on the larger creature, or drop off as a free action, landing prone in the nearest adjacent square that is not shared with the larger creature (unless the DM states otherwise). To remain on, the creature makes the same Strength (Athletics) or Dexterity (Acrobatics) check against a ﬂat DC of 10. On a failure, the smaller character falls off of the larger creature as described above. 
+
+### DISARM 
+A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item. The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
+
+#### Overrun
+When a creature tries to move through a hostile creature's space, the mover can try to force its way through by overrunning the hostile creature. As an action or a bonus action, the mover makes a Strength (Athletics) check contested by the hostile creature's Strength (Athletics) check. The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller. If the mover wins the contest, it can move through the hostile creature's space once this turn.
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 3 | COMBAT</div>
+\page
+#### Shove Aside
+A creature may use the special shove attack from the Player's Handbook to force a target to the side, rather than away. The attacker has disadvantage on its Strength (Athletics) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
+
+#### Tumble
+A creature can try to tumble through a hostile creature’s space, ducking and weaving past the opponent. As an action, or a bonus action that is at disadvantage, the tumbler makes a Dexterity (Acrobatics) check contested by the hostile creature’s Dexterity (Acrobatics) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn. This still provokes an Attack of Opportunity. Avoiding that threat would require a Disengage Action as normal, or via some other means of evasion.
+
+#### Cleaving Through Creatures
+When a melee attack reduces an undamaged creature to 0 hit points, any excess damage from that attack might carry over to another creature nearby. The attacker targets another creature within reach and, if the original attack roll can hit it, applies any remaining damage to it. If that creature was undamaged and is likewise reduced to 0 hit points, repeat this process, carrying over the remaining damage until there are no valid targets, or until the damage carried over fails to reduce an undamaged creature to 0 hit points.
+
+#### Massive Damage
+**INSTANT DEATH:** Massive damage can kill you instantly. When damage reduces you to 0 hit points and there is damage remaining, you die if the remaining damage equals or exceeds your hit point maximum.
+
+For example, Grond, who has a maximum of 9 hit points, currently has 7 hit points. If he takes at least 16 damage from a single attack, he is reduced to 0 hit points, but 9 damage remains. Because the remaining damage equals (or exceeds) his hit point maximum, Grond dies. 
+
+**SYSTEM SHOCK:** When a creature takes damage from a single source equal to or greater than half its hit point maximum, it must succeed on a DC 15 Constitution saving throw or suffer a random effect determined by a roll on the System Shock table. For example, a creature that has a hit point maximum of 30 must make that Constitution save if it takes 15 damage or more from a single source.
+
+##### System Shock
+| d10  | Effect                                                                                                                    |
+|:----:|:--------------------------------------------------------------------------------------------------------------------------|
+| 1    | The creature drops to 0 hit points and is dying, and suffers an Injury.                                                   |
+| 2    | The creature drops to 0 hit points and is dying.                                                                          |
+| 3    | The creature drops to 0 hit points but is stable.                                                                         |
+| 4-5  | The creature is stunned until the end of its next turn.                                                                   |
+| 6-7  | The creature can't take reactions and has disadvantage on attack rolls and ability checks until the end of its next turn. |
+| 8‑10 | The creature can't take reactions until the end of its next turn.                                                         |
+```
+```
+#### Identifying a Spell
+Sometimes a character wants to identify a spell that someone else is casting or that was already cast. To do so, a character can use their reaction to identify a spell as it’s being cast, or they can use an action on their turn to identify a spell by its effect after it is cast. If the character perceived the casting, the spell’s effect, or both, the character can make an Intelligence (Arcana) check with the reaction or action. The DC equals 15 + the spell’s level. If the spell is cast as a class spell and the character is a member of that class, the check is made with advantage. For example, if the spellcaster casts a spell as a cleric, another cleric has advantage on the check to identify the spell. Some spells aren't associated with any class when they’re cast, such as when a monster uses its Innate Spellcasting trait.
+
+This Intelligence (Arcana) Check represents the fact that identifying a spell requires a quick mind and familiarity with the theory and practice of casting. This is true even for a character whose spellcasting ability is Wisdom or Charisma. Being able to cast spells doesn’t by itself make you adept at deducing exactly what others are doing when they cast their spells.
+
+#### Critical Strike
+Sometimes, you need to, or simply want to, carefully place a blow. This can be done in order to enjoy beneﬁcial effects in combat, such as extra damage or special results. You may not attempt a Critical Strike when you are already at Disadvantage… the precision required is too demanding to be attempted by a character that is already swinging inaccurately.
+
+By attempting a Critical Strike, you must use a Bonus Action to Line Up the Strike, and then accept Disadvantage on your attack roll, but the result is a higher likelihood of acheiving extraordinary results. If you do these 2 things, you may select a beneﬁt from the following list:
+
+A) If using a Slashing Weapon, you deliver a Critical Hit
+
+B) If using a Piercing Weapon (including ranged weapons), the target is Restrained until he spends an Action to tear loose from the weapon.
+
+C) If using a Bludgeaoning Weapon, apply a Free Shove effect
+
+Players can feel free to come up with other creative effects, and attempt them using the requirements described above.
+
+#### Tying Knots
+Sometimes knowing how well a knot was fashioned is important in a dramatic scene when someone is trying to untie a knot or slip out of one. The creature who ties the knot makes an Intelligence (Sleight of Hand) check when doing so. The total of the check becomes the DC for an attempt to untie the knot with an Intelligence (Sleight of Hand) check or to slip out of it with a Dexterity (Acrobatics) check. This rule intentionally links Sleight of Hand with Intelligence, rather than Dexterity. This is an example of how to apply the rule in the “Variant: Skills with Different Abilities" section in chapter 7 of the Player’s Handbook.
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 3 | COMBAT</div>
+\page
+#### Nonlethal Damage
+When wielded to do nonlethal damage, a regular weapon is illsuited to the task. Such weapons are treated as improvised clubs (Simple Weapon), and often will deal 1D4 damage if light, 1D6 if one handed, or 1D8 for 2 handed weapons. Some weapons, like saps and blackjacks, may beneﬁt from the “nonlethal” weapon quality, which means they automatically inﬂict nonlethal damage in the hands of a proﬁcient user. Unarmed attacks do nonlethal damage, though monks may choose to inﬂict lethal or nonlethal with their strikes.
+
+#### Injuries
+A creature might sustain a lingering injury under the following circumstances:
+
+A) When it takes a critical hit and is dropped to 0 hit points
+
+B) When a “1” result is rolled on a System Shock roll for Massive Damage
+
+C) If a natural “1” is rolled on a death saving throw.
+
+To determine the nature of the injury, roll on the Lingering Injuries table and apply your Constitution modiﬁer to the roll. This table assumes a typical humanoid physiology, but can be adapted for creatures with different body types.
+```
+```
+##### And He Shall Carry That Wound Until The End Of His Days
+| 1d6  | Effect |
+|:----:|:-------------|
+| 1    | Let Me Catch My Breath - The Character gains 1 Level of Exhaustion* |
+| 2    | Distracting Pain - The character suffers -5 to Initiative rolls |
+| 3    | Reaper’s Burden - The character suffers -2 to Strength, Dexterity, and Constitution |
+| 4    | Troublesome Joints - The character suffers a -10’ to movement |
+| 5    | Fitful Rest - The character recovers 1 fewer Hit Dice in this Long Rest |
+| 6    | Relief! The Injury is silent this day |
+ *This level of exhaustion is permanent, and not automatically removed upon the next roll for the injury.
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 3 | COMBAT</div>
+\page
+<div class="wide">
+##### LINGERING INJURIES
+| d20     | Injury |
+|:--------|:-------------|
+| Below 0 | Fear the Reaper. The next time you are reduced to 0 Hit Points, you immediately die. |
+| 0       | Til the End of His Days. The wound will never heal quite right, and aches when the weather is damp. Or dry. At the end of every Long Rest, roll on the table above to determine the unpleasant effect suffered until the end of the next Long Rest. |
+| 1       | Lose an Eye. You have disadvantage on Wisdom (Perception) checks that rely on sight and on ranged attack rolls. Magic such as the Regenerate spell can restore the lost eye. If you have no eyes left after sustaining this injury, you're blinded. |
+| 2       | Lose an Arm or a Hand. You can no longer hold anything with two hands, and you can hold only a single object at a time. Magic such as the Regenerate spell can restore the lost appendage. |
+| 3       | Lose a Foot or Leg. Your speed on foot is halved, and you must use a cane or crutch to move unless you have a peg leg or other prosthesis. You fall prone after using the Dash action. You have disadvantage on Dexterity checks made to balance. Magic such as the Regenerate spell can restore the lost appendage. |
+| 4       | Horrible Scar. You are disﬁgured to the extent that the wound can't be easily concealed . You have disadvantage on Charisma based checks (except Intimidation) and have a Passive Charisma (Intimidation) value that automatically tests against people within 60’ of you. Magical healing of 6th level or higher, such as Heal and Regenerate, removes the scar. In Social Conﬂict, your suffer -1D6 to all 4 Social Skills. |
+| 5-7     | Minor Scar. The scar imposes a -2 Charisma. Magical healing of 6th level or higher, such as Heal and Regenerate, will remove the scar. |
+| 8-10    | Weakened Fortitude. The injury runs deep inside you. Increase the DC of your death saves by 1. If by some misfortune, you gain this injury again, increase the difﬁculty of your death saving throws by another 1. Magic such as the Heal spell can restore the dealth save DC. |
+| 11-13   | Internal Injury. Whenever you attempt an action in combat, you must make a DC 15 Constitution saving throw. On a failed save, you lose your action and can't use reactions until the start of your next turn. The injury heals if you receive magical healing of 3rd level or higheror if you spend ten days doing nothing but resting. |
+| 14-16   | Broken Ribs. This has the same effect as Internal Injury above, except that the save DC is 10. |
+| 17      | Limp. Your speed on foot is reduced by 5 feet. You must make a DC 10 Dexterity saving throw after using the Dash or Disengage action. If you fail the save, you fall prone. Magical healing of 3rd level or higher removes the limp. |
+| 18      | Festering Wound. Your hit point maximum is reduced by 1 for every 24 hours that the wound persists. If your hit point maximum drops to 0, you die. The wound heals if you receive magical healing of 3rd level or higher. Alternatively, someone can tend to the wound and make a DC 15 Wisdom (Medicine) check once every Long Rest. After ten successes, the wound heals. |
+| 19      | Infected Wound. You may not spend Hit Dice to recover Hit Points, though you do recover at the end of a Long Rest. The wound heals if you receive magical healing of 3rd level or higher. Alternatively, someone can tend to the wound and make a DC 10 Wisdom (Medicine) check once every Long Rest. After ten successes, the wound heals. |
+| 20      | It’s Just a Scratch. Roll again on this chart using a D10 with no modiﬁer. You suffer the effects, but the injury is not lasting. At the end of every Long Rest, roll 1D10. On a roll of 10, the Injury is healed. Add a cumulative +1 to the roll each time the injury fails to heal. |
+| 21+     | Irritating Injury. Whatever the injury was, you rub some dirt on it and start looking for revenge. If your character has Inspiration, it is lost. If your character does not have Inspiration, the DM may choose when to apply your next Setback. |
+</div>
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 3 | COMBAT</div>
+\page
+# Resting & Healing
+## Regaining Consciousness
+Everytime a character regains consciousness from being at 0 Hit Points, he gains 1 Level of Exhaustion.
+
+## Sleeping in Armour
+Sleeping in light armor has no adverse effect on the wearer, but sleeping in medium or heavy armor makes it difﬁcult to recover fully during a long rest. When you ﬁnish a long rest during which you slept in medium or heavy armor, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of exhaustion, the rest doesn’t reduce your exhaustion level.
+
+## Unconsciousness and Magical Healing
+If a character has been reduced to 0 hit points and then receives magical, alchemical, or some other supernatural form of healing, some of that healing power must first be allocated to stabilizing the grievous injuries that are drawing the character closer to death. Remove 1 die from the healing effect for each remaining death saving throw that needs to be made in order for the character to stabilize. If a healing effect combines dice with a fixed modifier, the fixed modifier is only applied if the creature is stabilized (total of 3 successful death saving throws) by the effect, and there remains any dice of healing after those used for stabilization.
+
+For example, Lucas Ryder is unconscious and has made no successful death saving throws, when N’Vek pous a healing potion down his gullet. Because a healing potion grants 2 dice of healing, (2D4+2 hit points) Lucas immediately checks off 2 successful death saving throws on his character sheet. Only one more is required in order to stabilize. If Lucas had previously made 1 successful death saving throw when the potion was administered, he would check his second and third successful death saving throw and therefore be stabilized, but the +2 would still not be applied, and Lucas would remain unconscious albeit stable. If the potion were one of Greater Healing (4D4+4) and Lucas had no death saving throws made previously, the potion would not only stabilize him (reducing the healing effect by 3 dice), but would also restore the remaining 1D4+4 in hit points of healing, and lift the ranger out of unconsciousness.
+```
+```
+## Long Rests
+A long rest is a period of downtime, at least 8 hours long, during which a character sleeps for at least 6 hours, and/ or performs light activity: reading, talking, eating, or standing watch for no more than 2 hours. If the rest is interrupted by a period of strenuous activity - at least 1 hour of walking, ﬁghting, casting spells, or similar adventuring activity, the characters must begin the rest again to gain any beneﬁt from it.
+
+During a long rest, each character follows 3 steps:
+
+1. Set up Camp - The character beneﬁts from a Short Rest and may replenish abilities and spend Hit Dice accordingly. If a character has not consumed 1 lb of food and 1 gallon of water during the day, he must do so now.
+2. At the end of the rest, the character regains spent Hit Dice, up to a number of dice equal to half of the character's total number of them (Round Down to a minimum of 1). For example, if a character has seven Hit Dice, he or she can regain three spent Hit Dice upon ﬁnishing a long rest.
+3. The character recovers lost hit points by rolling his total hit dice and adding his Constitution modiﬁer to each die. This roll does not expend Hit Dice. This replaces the 100% healing in the Core Rules.
+
+A character can't beneﬁt from more than one Long Rest in a 24-hour period, and a character must have at least 1 hit point at the start of the rest to gain its beneﬁts.
+
+An Unconscious character cannot beneﬁt from a Rest at all, but does regain 1 Hit Point after being Stable for 1D4 hours. Once he comes to, he may beneﬁt from a Short Rest, or a Long Rest - however, unless the party is willing to prolong the duration of their respite, the recovered character may need to be content with the effects of a Short Rest only.
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 4 | RESTING & HEALING</div>
+\page
+# Social Conﬂict
+Most roleplaying with NPCs is simple interaction with no need for any sort of formal process beyond an occassional skill check. A character tries Persuasion on a merchant to give him a discount, or the group’s rogue lays down some Deception after getting caught pickpocketing. However, interacting with some NPCs may require a more dynamic engagement, especially when there are important objectives on the line for one or both sides of the conversation, or the NPC is a more signiﬁcant element to the ongoing story and campaign. When simple conversation elevates in this way, the players will engage in Social Conﬂict.
+
+## Starting Attitude
+The NPCs involved will have a starting attitude toward the adventurers or individual characters that they are interacting with: friendly, indifferent, or hostile. While not necessarily obvious, it should become fairly apparent what the attitude of the NPCs are during preliminary conversation and basic observation!
+
+A friendly creature wants… or at least is willing… to help you and your companions and wishes for the characters to succeed - as long as that success isn’t at his or her expense. For tasks or actions that require no particular risk, effort, or cost, friendly creatures usually help without question, without need for Social Conﬂict. If an element of personal risk is involved, a successful Social Skill check might be required to convince a friendly creature to take a risk. Compensation of some sort might make a request more convincing.
+
+An indifferent creature might help or hinder the party, depending on what the creature sees as most beneﬁcial. A creature's indifference doesn't necessarily make it stand-off-ish or disinterested. Indifferent creatures might be polite and genial, surly and irritable or anything in between. Casual application of Social Skills like Insight and Persuasion may be insufﬁcient, and such individuals will require Social Conﬂict to sway. Intimidation and Deception might be used for quick results, but in the long term may be undesirable (as the change in Attitude is temporary, and will likely worsen once the threat ebbs, or the lies are revealed!)
+
+A hostile creature opposes the adventurers and their goals but doesn't necessarily attack them on sight. For example, a condescending noble might wish to see a group of upstart adventurers fail so as to keep them from becoming rivals for the king's attention, thwarting them with slander and scheming rather than direct threats and violence. Adventurers that require signiﬁcant information or assistance will need to engage in Social Conﬂict to convince a hostile creature to do anything on their behalf.
+```
+```
+## Resolving Social Conflict
+Conﬂicts are a bit more complicated than testing to overcome everyday adventuring obstacles. In a conﬂict, there are multiple skill checks instead of just one or two, and how we make them is different. Each side privately chooses three actions to represent their strategy in the exchange. Then these actions are played against each other and tests are made to determine the results. Here is a Summary of the Social Conﬂict Procedure:
+
+1. Select 1 to 3 characters out of those present to be participants for each side (in total, between 2 and 6 participants)
+2. State the Terms of Victory and consider the Offered Terms of Defeat.
+3. Calculate Disposition for both sides.
+4. Identify Leverage and State of Mind for both sides.
+5. Choose three actions representing the party’s strategy in Act I. The DM does the same, but chooses his actions ﬁrst.
+6. Reveal the actions for the ﬁrst Exchange and announce Skill Tricks. Consult the Actions Table to see how your actions interact.
+7. Make Social Rolls. Adjust Disposition for each side. If either side’s Disposition is reduced to 0, the Conﬂict Concludes.
+8. Reveal and test for the second Exchange, and then the Third Exchange before proceeding to step 9.
+9. Proceed to the next Act, or if Act III has resolved and both sides still have a positive Disposition, the Conﬂict Concludes.
+
+Dice Rolls: Social Conﬂicts depart from typical Dice Rolling. For each of the 4 Social Skills, characters will roll a pool of D6’s equal to their skill modiﬁer. For example, what is normally a Persuasion check of 1D20 + 2 (Proﬁciency) + 4 (Charisma Modiﬁer) becomes a dice pool of 6D6. In social rolls, a roll of 5 or higher on the die is a Success.
+
+### Step 1: Select the Participants
+A Social Conﬂict is made up of a maximum of 3 Acts, in each of which both sides take 3 conversational actions. In each Act, there must be 1, 2, or 3 participants. Other characters may be present for the conversation, but only a maximum of 3 may be part of the conﬂict. Each participant must speak in at least 1 Exchange.
+
+### Step 2: State the Terms
+Social Conﬂict only breaks out when somebody wants something. In this step, the Party must state what they get if the win, and the DM will present what happens if the Party loses.
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 5 | SOCIAL CONFLICT</div>
+\page
+Possible Terms for Victory - Information: The party wants to ﬁnd out something the opponent knows, or more importantly, that they think he knows. Personal information such as Background, Ideal, Bond, and Flaw can be learned and later used as Leverage in future Social Conﬂicts with the NPC. Other information might have value within the campaign or in the pursuit of side quests. If the opponent does not have the desired information, he will still attempt to provide helpful advice or direction toward that information if possible. A clever character will verify that a source has the information needed, before engaging.
+
+- Favour: Normally, this will not be an “unnamed” favour, but one that is carefully speciﬁed. If the favour is a task of some sort that the opponent is ill equipped to perform (lending money that he doesn’t have, or cracking a safe without owning lockpicks), he may instead provide helpful advice or direction toward a more appropriate resource. Again, a clever character will investigate the target a bit before engaging.
+
+If the party does not like the Terms presented (don’t forget, the DM will present you with Terms for your loss), they can walk away from the Social Conﬂict. If you lose, you must uphold the Terms of your loss in your future roleplaying and actions. Keep in mind that the setting of Terms does not take place “in character”, so feel free to wheel and deal for the best possible outcome. If you are offered terms that you don’t like, you can walk… but before turning your back, consider a counter-offer on the Terms that makes it worth your while. Likewise, if you really need something from an NPC, and you can’t seem to get him to participate, you may need to up your offered Terms.
+
+### Step 3: Disposition
+Your Disposition is a measurement of the evidence and material supporting your side of the conversation. As the conflict progresses, each party will try to chip away the other’s Disposition until nothing remains to be said. The players begin the conflict with a Disposition of 6. Indifferent NPCs also have a starting Disposition of 4, while Hostile NPCs have a starting Disposition of 6. To this number, both sides will add a Mental Ability Modifier - Intelligence, Wisdom, or Charisma. Only well rounded conversationalists can march into a social conflict with confidence… others may find themselves less able to defend and advance their position and their strategy. To determine which Ability modifier to use, both sides secretly select which Tone of Conversation they would like to engage in. If both sides select the same, that is what will be used. If the two sides select a different Tone of Conversation, both sides instead use the third, unselected option.
+[Click here](#p3) to go to page 3
+
+##### Tone of Conversation Modifier
+| Tone of Conversation | Modiﬁer Used |
+|:----:|:-------------|
+| Battle of Wits  | Intelligence |
+| Clash of Wills  | Wisdom |
+| Duel of Words | Charisma |
+```
+```
+### Step 4: Leverage & State of Mind
+Leverage is ammunition that you bring into a social conﬂict - information that is relevant to the subject of discussion. Each item of Leverage must be presented to the DM, along with a statement as to why it is relevant to this Social Conﬂict. The DM will rule case by case if it is valuable. Each valid piece of leverage adds a +1 to Disposition.
+
+State of Mind can increase the difﬁculty of having a coherent and effective conversation, especially with respect to the pressure generated by a social conﬂict. State of Mind is hampered when a participant suffers any of the following conditions: Hungry or Thirsty, Agitated or Angry, Injured or Ill, and Tired or Weary. For each Condition that applies to a participant, reduce Disposition by 1. Individuals that do not feel up to a conversation are likely to walk away from a Social conﬂict, so favourable Terms may be needed to entice them into the engagement.
+
+### Step 5: Strategy - Select Actions
+There are only 4 available actions to be selected, and each may be selected more than once. Persuasion, Insight, Deception, Intimidate. Some types of action, you and your participating allies will be more skilled at using, but be wary about simply hammering at your opponent using social actions in which you specialize. Not only will such an approach make you more predictable, but you may also ﬁnd your favoured tactics being outplayed. Each action has a different effect on how you test. And each action interacts with the other actions in a different way.
+
+There will be three Acts, and in each Act, there are three Exchanges where your chosen Action clashes with the DM’s Action. Secretly select one Action for each of the three Exchanges. Think about what conversation will accompany each Action, as the Conﬂict will go more smoothly if your Action planning follows how you think the conversation might go. Make a couple notes to remind you of what points you want to touch on during your turn.
+
+### Step 6: Reveal Action
+The DM says, “Action 1,” and both sides reveal their first action for the Act. At this time, both sides may declare the use of a Social Skill Trick. Once the actions are declared, roleplay the conversation, and be sure to follow the requirements for “Speaking the Part”. Only one person speaks during each Exchange, and that player is obligated to engage the opponent in a manner that fits the style of his chosen Action. The side that initiated the Social Conflict always speaks first in Act I and Act III. The other side speaks first in Act II.
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 5 | SOCIAL CONFLICT</div>
+\page
+### Step 7: Resolve Actions / Make Social Rolls
+First, the DM may rule that the player failed to meet the requirements of his Speaking Part. His team’s Disposition goes down by 1 (or more). Note that this system is intended to be a fun variation on traditional social roleplaying, so as long as some effort was made, participants should not be judged too harshly. Especially in cases where the opposing Speaking Parts are particularly contrary in nature.
+Both sides then refer to the Action Resolution Table matching their Action, referencing the “Versus” that matches the opponent’s action. Opposed Actions will be reduced by the opponent’s successes, with only the side with a positive net result gaining any benefit. Independent rolls occur apart from the opponent, and are not reduced by the opponent (but may observe special rules defined in the Action Resolution Table).
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 5 | SOCIAL CONFLICT</div>
+\page
+#### Action 1 - Persuasion
+Persuasion lets you deliver a clear, direct point, and engage the opponent in discussion. It can serve to focus or refocus the conversation, or simply restate your position. Persuasion is the most direct way to win Social Conﬂict and is the most straightforward tactic in conversation.
+
+**Speaking the Part:** As the core of conversation, Persuasion is very simple - just make some sort of point. As long as you say something of interest (not just agreeing, or making small talk) your job is covered.
+<div class='wide'>
+##### Action 1 - Persuasion
+| Versus     | Test        | Result |
+|:-----------|:------------|:-------|
+| Persuasion | Opposed | This is the most common for of conversation - a sensible back and forth exchange, granting both sides an opportunity to make points and counterpoints. If you win, reduce your opponent’s Disposition by your net successes.. |
+| Insight    | Independent     | Persuasion versus Insight is a more cautious repartee. One side makes clear and compelling statements, while the other side carefully considers the words, and probes with scalpel sharp questions. Make an Independent roll to determine the strength of your talking points, and reduce your opponent’s Disposition by the number of successes. |
+| Deception  | No Roll | It’s not easy to have a proper conversation with an opponent that has released the constraints of logic and fact. Falsified, omitted, or twisted supporting information makes for a frustrating exchange.  |
+| Intimidate | Opposed     | Intimidate often turns a conversation into a shouting match. A character using Persuasion against this sort of blunt force opponent struggles to get points across and can’t direct the flow of conversation with any degree of finesse. If you win the Opposed Roll, reduce your opponent’s Disposition by 1. |
+</div>
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 5 | SOCIAL CONFLICT</div>
+\page
+#### Action 2 - Insight
+The Insight action protects and strengthens your position by better understanding the direction of the conversation. Through Insight, your side reads body language, picks up on ticks and tells, and reads all manner of subtext and emotion.
+
+**Speaking the Part:** Insight is very defensive. As part of your action, you must show some understanding of your opponent’s comments.
+<div class='wide'>
+##### Action 2 - Insight
+| Versus     | Test        | Result |
+|:-----------|:------------|:-------|
+| Persuasion | Independent     | You are taking a defensive stance against the verbal lunges and thrusts of your opponent. You listen closely, seeking to understand and redirect the conversation, finding flaws of reason and 	vulnerabilities to cut into. Make an Independent test and reduce your opponents Disposition by the successes. |
+| Insight    | Opposed | Insight versus Insight is like watching two men fight with shields strapped to both arms - lots of staring and circling. The Insight Action involves revealing little, but depends on the opponent revealing weaknesses and exposing errors in logic. If you win the Opposed roll, you may recover 1 point of Disposition. |
+| Deception  | Opposed     | You can tell right away that you’re up against some conversational foolishness. Insight focuses on detecting misdirection and falsities, so you are well prepared to dissect your opponents deceptions. You make an opposed roll against your opponent. If you win, reduce their Disposition by the number of successes. |
+| Intimidate | No Roll     | Your opponent’s blunt-force hostility bubbles to the surface, making it impossible to read emotion, body language and tone. It’s all just hitting you like a bullhorn. You won’t learn much from this assault. Best to just try to ignore him, and start planning your next Action. |
+</div>
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 5 | SOCIAL CONFLICT</div>
+\page
+#### Action 3 - Deception
+A Deception represents a misleading or deceitful point used to get your opponent to say something foolish that you can use against him. It attacks and defends with insinuation, assumption, misdirection, or lies.
+
+**Speaking the Part:** Deception requires that you say something that is either untrue, or conceals the truth, or trick the opponent with some confusing wordplay.
+<div class='wide'>
+##### Action 3 - Deception
+| Versus     | Test | Result |
+|:-----------|:-------------|--|
+| Persuasion | Opposed | Hey this is fun! Your opponent is trying so hard to make intelligent points and support every statement he makes. You’re just making all this shit up. Make an opposed test, and if you win, reduce your 	opponent’s Disposition by your net successes and also increase his 	frustration level. Everytime you match your Deception against your opponent’s Persuasion, you suffer a cumulative -1 dice pool penalty for the remainder of the Social Conflict. |
+| Insight    | No Roll | Your opponent keeps his cards close to his chest, waiting to jump on any opening. You fill every weakness in your story with vaguely supported certainty and stab at him with statements clad in falsehood, but he keeps exposing your BS. Your well crafted fiction seems to be wasted breath this round. |
+| Deception  | Opposed | In Deception versus Deception, the hardest part is to resist breaking a smile. The lies and misleading statements are more like entertainment than civil debate, and the points both sides are making are nearly irrelevant. Roll an Opposed test and if you win, consult the table below. And everybody within earshot should roll their eyes… |
+| Intimidate | Independent | You take your lumps against the heavy-handed approach of your opponent, but manage to get in a couple smart shots of your own. Those shots resonate even as he raises his voice louder. Make an Independent chack, and with 3 Successes, you stick your opponent with a -1 Dice Success Modiﬁer on his next dice check. |
+</div>
+<div class='wide'>
+##### Deception versus Deception
+| Successes   | Effect                                                                    |
+|:------------|:--------------------------------------------------------------------------|
+| 1 Net Success   | **Plot Holes** -1 to Opponent's Disposition                     |
+| 2 Net Successes | **Tale Too Tall** Your opponent’s stories are simply too imlpausible. His next Deception test suffers a -1 Dice Modifier Penalty. Also, Plot Holes                     |
+| 3 Successes | **Disarm** Your opponent treats any further Deception versus Deception tests as a “No Roll” result. You treat any further Deception versus Deception tests as an Independent roll to reduce opponent Disposition. Also, Tale Too Tall + Plot Holes |
+</div>
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 5 | SOCIAL CONFLICT</div>
+\page
+#### Action 4 - Intimidation
+The Intimidate action is used to push the opponent around, gaining a temporary advantage over him. It could be overbearing conﬁdence, bullying, or even threats.
+
+**Speaking the Part:** Intimidation is very aggressive. “YOU CAN’T HANDLE THE TRUTH!”. Be a bit of a bully - ﬂail your hands - ﬁnd some energy.
+<div class='wide'>
+##### Action 4 - Intimidation
+| Versus     | Test | Result |
+|:-----------|:-------------|--|
+| Persuasion | No Roll | Your opponent is making lots of clever points, but all that matters to you is the speed and volume of your comments. You do your best to rattle him, and drown out his voice so you can’t hear the things that actually make sense, but he seems to know just what to say to appease your wrath. |
+| Insight    | Opposed | Your opponent is bearing the brunt of your rant, you just swing faster and harder to make an impact. Make an opposed roll with your opponent to see if your force beats his finesse. If you win, compare your results to the chart below. |
+| Deception  | Independent | You lash out at your foe like verbal berzerker. You opponent isn’t even making sense, so you lose no momentum or stride Does he think this is a JOKE?!?! Make an Independent check, and consult the chart below. |
+| Intimidate | Opposed | He’s up in your grill. You’re up in his grill. Chests are bumpin’ and spittle’s flyin’. Or maybe you’re giving you meanest, nastiest evil eye. One thing’s for sure, only one man is going to be on top of this scrap. Make an Opposed check, and if you win, consult the chart below compared to your net successes. |
+</div>
+<div class='wide'>
+##### Special Intimidation Effects
+| Successes   | Effect                                                                    |
+|:------------|:--------------------------------------------------------------------------|
+| 1 Success   | **Impede** -1 Die from Pool on Opponent’s next Action                     |
+| 2 Successes | **Gain Momentum** +2 Dice to Pool on your next Action                     |
+| 3 Successes | **Disarm** Impede + Gain Momentum |
+</div>
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 5 | SOCIAL CONFLICT</div>
+\page
+#### Social Skill Tricks
+Characters that have access to them may use Social Skill Tricks to improve their chances of winning Social Conflicts. The character must first gain the Skill Trick during character advancement. He may then announce the Skill Trick to be used after both  Actions are revealed (only one may be used at a time). Lastly, the character must incorporate the conversational tactic into his Speaking Part. The special effect of the Trick only activates if it is used against the right Action type. Otherwise, the player must still Speak the Part, but it has no effect on Action Resolution.
+
+### Step 8: Repeat for Second and Third Exchange
+Both sides reveal their Action for the second, then third Action, each time resolving the actions and making rolls as required (Steps 6 & 7)
+
+### Step 9: Repeat for Act II and Act III
+Repeat Steps 5 to 8 for Act II, and then again for Act III
+
+### Concluding the Conflict
+**Disposition Zero or End of Act III**
+
+As soon as one side is reduced to a Disposition of zero, or all 3 Act III Actions are complete, the Social Conflict ends. 
+
+Stalemate: If both sides still have Disposition remaining at the end of the Social Conflict, (i.e., the social conflict concluded at the end of Act III) or both sides are reduced to 0 during the same Action, the Conflict ends in a Stalemate and both sides propose Compromised Terms (each side grants the other either a No Compromise, Minor Compromise, Modest Compromise, or a Major Compromise). It is possible that both sides receive their full Terms!
+Victory: If one side is reduced to 0 and the other has a positive Disposition remaining, it is a Victory, and the winner receives his full terms, and the loser is granted Compromised Terms.
+
+Compromised Terms Once the conflict has ended, the first thing you do is compromise. The loser makes an offer to the winner, “Fine, you win, but…”. The degree of the compromise should be appropriate to how much Disposition the winner lost. The results of the conflict are set—the winner achieved his goal, the loser did not. Now discuss an appropriate middle ground for compromise. A suitable compromise can be based on granting some of the loser’s Terms, or reducing the winner’s Terms.
+
+#### No Compromise: Converse Like a Boss
+If the winning side loses nothing from their Disposition, they are not compelled to offer any sort of compromise. They have their Terms met entirely (within the opponent’s best ability to meet them) and the loser should consider investing in Social Skill proficiencies.
+
+#### Minor Compromise: Rock Solid Disposition
+If the winner ends the conflict with a Disposition of 6 or more and lost no more than 2 points of Disposition, he owes the loser only a minor compromise. (roughly 25% of the set Terms). 
+
+#### Major Compromise: Shredded Disposition
+If the winner’s disposition is reduced to 1 or  2 points, he has won a very narrow victory indeed. The opposing side has poked all sorts of holes into the winner’s argument, and he must grant a major compromise to the loser. (roughly 75% of the set Terms)
+
+#### Compromise: Agree to Disagree
+In any other situation, the winner owes the loser a significant concession. Many strong points were made, but ultimately, the winner had all the right counterpoints and an overall stronger delivery. (roughly 50% of the set Terms)
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 5 | SOCIAL CONFLICT</div>
+\page
+### Creature Proficiency Bonus
+Many creatures do not have proﬁciency in Social skills. However, more enlightened individuals may pick up a talent for conversation. Below is the Proﬁciency Bonus chart based on Challenge Rating. Some creatures may have had the opportunity to develop one or more of the 4 Social Skills.
+##### Proficiency Bonus by Challenge Rating
+| Challenge	| Proficiency Bonus |
+|:----------|:-----------------:|
+| 0	        | +2                |
+| ⅛        | +2                |
+| ¼         | +2                |
+| ½         | +2                |
+| 1         | +2                |
+| 2	        | +2                |
+| 3	        | +2                |
+| 4	        | +2                |
+| 5	        | +3                |
+| 6	        | +3                |
+| 7	        | +3                |
+| 8         | +3                |
+| 9         | +4                |
+| 10        | +4                |
+| 11        | +4                |
+| 12        | +4                |
+| 13        | +5                |
+| 14        | +5                |
+| 15        | +5                |
+| 16        | +5                |
+| 17        | +6                |
+| 18        | +6                |
+| 19        | +6                |
+| 20        | +6                |
+| 21        | +7                |
+| 22        | +7                |
+| 23        | +7                |
+| 24        | +7                |
+| 25	    | +8                |
+| 26	    | +8                |
+| 27	    | +8                |
+| 28	    | +8                |
+| 29	    | +9                |
+| 30	    | +9                |
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 5 | SOCIAL CONFLICT</div>
+\page
+# Player Reference & Reminder Sheet
+### Alignments
+**Lawful Good:** A lawful good character acts as a good person is expected or required to act. She combines a commitment to oppose evil with the discipline to ﬁght relentlessly. She tells the truth, keeps her word, helps those in need, and speaks out against injustice. A lawful good character hates to see the guilty go unpunished. Lawful good combines honor with compassion.
+
+**Neutral Good:** A neutral good character does the best that a good person can do. He is devoted to helping others. He works with kings and magistrates but does not feel beholden to them. Neutral good means doing what is good and right without bias for or against order.
+
+**Chaotic Good:** A chaotic good character acts as his conscience directs him with little regard for what others expect of him. He makes his own way, but he’s kind and benevolent. He believes in goodness and right but has little use for laws and regulations. He hates it when people try to intimidate others and tell them what to do. He follows his own moral compass, which, although good, may not agree with that of society. Chaotic good combines a good heart with a free spirit.
+
+**Lawful Neutral:** A lawful neutral character acts as law, tradition, or a personal code directs her. Order and organization are paramount. She may believe in personal order and live by a code or standard, or she may believe in order for all and favor a strong, organized government. Lawful neutral means you are reliable and honorable without being a zealot.
+
+**Neutral:** A neutral character does what seems to be a good idea. She doesn’t feel strongly one way or the other when it comes to good vs. evil or law vs. chaos (and thus neutral is sometimes called “true neutral”). Most neutral characters exhibit a lack of conviction or bias rather than a commitment to neutrality. Such a character probably thinks of good as better than evil—after all, she would rather have good neighbors and rulers than evil ones. Still, she’s not personally committed to upholding good in any abstract or universal way. Some neutral characters, on the other hand, commit themselves philosophically to neutrality. They see good, evil, law, and chaos as prejudices and dangerous extremes. They advocate the middle way of neutrality as the best, most balanced road in the long run. Neutral means you act naturally in any situation, without prejudice or compulsion.
+
+**Chaotic Neutral:** A chaotic neutral character follows his whims. He is an individualist ﬁrst and last. He values his own liberty but doesn’t strive to protect others’ freedom. He avoids authority, resents restrictions, and challenges traditions. A chaotic neutral character does not intentionally disrupt organizations as part of a campaign of anarchy. To do so, he would have to be motivated either by good (and a desire to liberate others) or evil (and a desire to make those others suffer). A chaotic neutral character may be unpredictable, but his behavior is not totally random. He is not as likely to jump off a bridge as he is to cross it. Chaotic neutral represents freedom from both society’s restrictions and a do-gooder’s zeal.
+
+**Lawful Evil:** A lawful evil villain methodically takes what he wants within the limits of his code of conduct without regard for whom it hurts. He cares about tradition, loyalty, and order, but not about freedom, dignity, or life. He plays by the rules but without mercy or compassion. He is comfortable in a hierarchy and would like to rule, but is willing to serve. He condemns others not according to their actions but according to race, religion, homeland, or social rank. He is loath to break laws or promises. This reluctance comes partly from his nature and partly because he depends on order to protect himself from those who oppose him on moral grounds. Some lawful evil villains have particular taboos, such as not killing in cold blood (but having underlings do it) or not letting children come to harm (if it can be helped). They imagine that these compunctions put them above unprincipled villains. Some lawful evil people and creatures commit themselves to evil with a zeal like that of a crusader committed to good. Beyond being willing to hurt others for their own ends, they take pleasure in spreading evil as an end unto itself. They may also see doing evil as part of a duty to an evil deity or master. Lawful evil represents methodical, intentional, and organized evil.
+
+**Neutral Evil:** A neutral evil villain does whatever she can get away with. She is out for herself, pure and simple. She sheds no tears for those she kills, whether for proﬁt, sport, or convenience. She has no love of order and holds no illusions that following laws, traditions, or codes would make her any better or more noble. On the other hand, she doesn’t have the restless nature or love of conf lict that a chaotic evil villain has. Some neutral evil villains hold up evil as an ideal, committing evil for its own sake. Most often, such villains are devoted to evil deities or secret societies. Neutral evil represents pure evil without honor and without variation.
+
+**Chaotic Evil:** A chaotic evil character does what his greed, hatred, and lust for destruction drive him to do. He is vicious, arbitrarily violent, and unpredictable. If he is simply out for whatever he can get, he is ruthless and brutal. If he is committed to the spread of evil and chaos, he is even worse. Thankfully, his plans are haphazard, and any groups he joins or forms are likely to be poorly organized. Typically, chaotic evil people can be made to work together only by force, and their leader lasts only as long as he can thwart attempts to topple or assassinate him. Chaotic evil represents the destruction not only of beauty and life, but also of the order on which beauty and life depend.
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 6 | REFERENCE & REMINDER</div>
+\page
+## Actions
+### Move
+Movement cost: 5ft per 5ft moved
+
+- If you have more than one speed, such as your walking speed and a ﬂying speed, you can switch back and forth between your speeds during your move.
+- Whenever you switch, subtract the distance you've already moved from the new speed.
+- You can move through a nonhostile creature's space.
+- You can move through a hostile creature's space only if the creature is at least two sizes larger or smaller than you.
+- Another creature's space is difﬁcult terrain for you.
+- Whether a creature is a friend or an enemy, you can't willingly end your move in its space.
+
+### Drop Prone
+Movement cost: 0ft (free)
+
+- You can drop prone without using any of your speed
+- To move while prone, you must crawl or use magic such as teleportation
+- Dropping prone adds the Prone condition (melee attacks against you have advantage, ranged attacks against you have disadvantage, your own attacks have disadvantage)
+
+### High Jump
+Movement cost: 5ft per 5ft jumped
+
+- You leap into the air a number of feet equal to 3 + your Strength modiﬁer if you move at least 10 feet on foot immediately before the jump.
+- When you make a standing high jump, you can jump only half that distance.
+- You can extend your arms half your height above yourself during the jump.
+- In some circumstances, your DM might allow you to make a Strength (Athletics) check to jump higher than you normally can.
+
+### Climb
+Movement cost: 10ft per 5ft climbed - May involve a Strength (Athletics) check if the climb is difﬁcult
+
+### Crawl
+Movement cost: 10ft per 5ft crawled
+
+### Long Jump
+Movement cost: 5ft per 5ft jumped
+
+- You cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump.
+- When you make a standing long jump, you can leap only half that distance
+- May involve a DC 10 Strength (Athletics) check to clear a low obstacle (no taller than a quarter of the jump's distance). You hit the obstacle on a failed check.
+- May involve a DC 10 Dexterity (Acrobatics) check to land on your feet in difﬁcult terrain. You land prone on a failed check.
+
+### Grapple Move
+- Drag or carry the grappled creature with you
+- If you move while grappling another creature, your speed is halved, unless the creature is two or more sizes smaller than you.
+- See the attack action for how to grapple a creature.
+
+### Swim
+Movement cost: 10ft per 5ft swum
+
+- May involve a Strength (Athletics) check if the swim is difﬁcult
+
+### Stand Up
+Movement cost: half of your speed
+
+- You can't stand up if you don't have enough movement left or if your speed is 0
+
+> #### DIFFICULT TERRAIN
+> Moving in difﬁcult terrain costs an additional 5ft per 5ft of movement
+
+### Attack
+Perform a melee or ranged attack with your weapon
+
+- Certain features, such as the Extra Attack feature of the ﬁghter, allow you to make more than one attack with this action. Each of these attacks is a separate roll and may target different creatures.
+- You may move in between these attacks.
+- When you attack with a light melee weapon, you can use a bonus action to attack with your other hand (see the Offhand attack bonus action).
+- You may replace one of your melee attacks with a Disarm, Grapple, a Shove, or a Shove Aside.
+- Some conditions give advantage on the attack: attacks against blinded, paralyzed, petriﬁed, restrained, stunned, or unconscious targets; melee attacks against prone targets; attacks by invisible or hidden attackers.
+- Some conditions give disadvantage on the attack: attacks against invisible or hidden targets; ranged attacks against prone targets; attacks by blinded, frightened, poisoned, or restrained attackers.
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 6 | REFERENCE & REMINDER</div>
+\page
+### Cast a Spell
+Cast a spell with a casting time of 1 action
+
+- You can't cast a spell with you action and a different spell with your bonus action in the same turn, except if the action is used to cast a cantrip.
+- The target of a spell must be within the spell's range. To target something, you must have a clear path to it, so it can't be behind total cover.
+- Spells with material components do not consume the material unless explicitly stated. Unless the cost of a material is given, you can assume that the cost is negligible and the material is simply available in a component pouch.
+- Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends. You lose concentration on a spell if you cast another spell that requires concentration or when you are incapacitated. Each time you take damage, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher.
+
+### Climb onto a Bigger Creature
+If one creature wants to jump onto a suitably large opponent (at least 1 size larger), it can be treated as terrain for the purpose of jumping onto its back or clinging to a limb. After making any ability checks necessary to get into position and onto the larger creature, the smaller creature uses its action to make a Strength (Athletics) or Dexterity (Acrobatics) check contested by the target's Dexterity (Acrobatics) check. If it wins the contest, the smaller creature successfully moves into the target creature's space and clings to its body.
+
+- While in the target's space, the smaller creature moves with the target and has advantage on attack rolls against it. When the larger creature moves, it can drag or carry the smaller creature, but its speed is halved, unless it is more than one size larger than you.
+- The smaller creature can move around within the larger creature's space, treating the space as difﬁcult terrain.
+- The larger creature's ability to attack the smaller creature depends on the smaller creature’s location, and is left to the DM’s discretion.
+- The larger creature can dislodge the smaller creature as an action - knocking it off, scraping it against a wall, or grabbing and throwing it - by making a Strength (Athletics) check contested by the smaller creature’s Strength (Athletics) or Dexterity (Acrobatics) check. The smaller creature chooses which ability it uses to resist.
+- If a creature begins its turn on a larger creature, it must use a Bonus Action to remain on the larger creature, or drop off as a free action, landing prone in the nearest adjacent square that is not shared with the larger creature (unless the DM states otherwise). To remain on, the creature makes the same Strength (Athletics) or Dexterity (Acrobatics) check against a ﬂat DC of 10. On a failure, the smaller character falls off of the larger creature as described above.
+```
+```
+
+### Dash
+Gain extra movement for the current turn - The increase equals your speed, after applying any modiﬁers.
+
+### Disarm
+A creature can use a weapon attack to knock a weapon or another item from a target's grasp.
+
+- The attacker makes an attack roll contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item.
+- The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands.
+- The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
+
+### Disengage
+- Your movement doesn't provoke opportunity attacks for the rest of the turn
+
+### Dodge
+Focus entirely on avoiding attacks
+
+- Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage.
+- You lose this beneﬁt if you are incapacitated or if your speed drops to 0.
+
+### Use Shield
+Equip or unequip a shield
+
+- A shield always takes an action to equip or unequip.
+- Armor takes several minutes to equip or unequip.
+
+### Escape
+- To escape a grapple, you must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by the grappler's Strength (Athletics) check.
+- Escaping other conditions that restrain you (such as manacles) may require a Dexterity or Strength check, as speciﬁed by the condition.
+
+### Grapple
+Attempt to grab a creature or wrestle with it
+
+- You can use the Attack action to make a special melee attack, a grapple. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
+- The target of your grapple must be no more than one size larger than you, and it must be within your reach.
+- Using at least one free hand, you try to seize the target by making a grapple check, a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use).
+- If you succeed, you subject the target to the grappled condition (its speed is set to 0).
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 6 | REFERENCE & REMINDER</div>
+\page
+### Help
+Grant an ally advantage on an ability check or attack
+
+- The target gains advantage on the next ability check it makes to perform the task you are helping with.
+- Alternatively, the target gains advantage on the next attack roll against against a creature within 5 feet of you.
+- The advantage lasts until the start of your next turn.
+
+### Hide
+Attempt to hide
+
+- You can't hide from a creature that can see you. You must have total cover, be in a heavily obscured area, be invisible, or otherwise block the enemy's vision.
+- If you make noise (such as shouting a warning or knocking over a vase), you give away your position. 
+- When you try to hide, make a Dexterity (Stealth) check and note the result. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.
+- A creature notices you even if it isn't searching unless your Stealth check is higher than its Passive Perception.
+- Out of combat, you may also use a Dexterity (Stealth) check for acts like concealing yourself from enemies, slinking past guards, slipping away without being noticed, or sneaking up on someone without being seen or heard.
+
+### Overrun
+When a creature tries to move through a hostile creature's space, the mover can try to force its way through by overrunning the hostile creature.
+
+- As an action or a bonus action, the mover makes a Strength (Athletics) check contested by the hostile creature’s Strength (Athletics) check. The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller.
+- If the mover wins the contest, it can move through the hostile creature's space once this turn.
+
+### Ready
+Choose a trigger and a response reaction
+
+- First, you decide what perceivable circumstance will trigger your reaction.
+- Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it.
+- When the trigger occurs, you can either take your reaction right after the trigger ﬁnishes or ignore the trigger.
+- When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires concentration
+```
+```
+
+### Search
+Devote your attention to ﬁnding something - Depending on the nature of your search, the DM might have you make a Wisdom (Perception) check or an Intelligence (Investigation) check.
+
+### Shove
+Shove a creature, either to knock it prone or push it away from you.
+
+- Using the Attack action, you can make a special melee attack to shove a creature. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
+- The target of your shove must be no more than one size larger than you, and it must be within your reach.
+- You make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you win the contest, you either knock the target prone or push it 5 feet away from you.
+
+### Shove Aside
+A creature may force a target to the side, rather than away. - The attacker has disadvantage on its Strength (Athletics)
+
+check when it does so. If that check is successful, the
+
+attacker moves the target 5 feet to a different space within
+
+its reach.
+
+### Tumble
+A creature can try to tumble through a hostile creature’s space, ducking and weaving past the opponent.
+
+- As an action or a bonus action, the tumbler makes a Dexterity (Acrobatics) check contested by the hostile creature’s Dexterity (Acrobatics) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
+
+### Use an Object
+Interact with a second object or use special object abilities
+
+- You can interact with one object for free during your turn (such as drawing a weapon or opening a door). If you want to interact with a second object, use this action.
+- When an object requires your action for its use, you also take this action.
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 6 | REFERENCE & REMINDER</div>
+\page
+### Off-Hand Attack
+Attack with your off hand
+
+- Only usable if you take the Attack action and attack with a light melee weapon that you're holding in one hand.
+- Perform a single attack with a different light melee weapon that you're holding in the other hand.
+- You don't add your ability modiﬁer to the damage of the bonus attack, unless that modiﬁer is negative.
+- If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.
+
+### Cast a Spell
+Cast a spell with a casting time of 1 bonus action
+
+- You can't cast a spell with you action and a different spell with your bonus action in the same turn, except if the action is used to cast a cantrip.
+- For further details, see the Cast a spell action.
+
+### Opportunity Attack
+You can rarely move heedlessly past your foes without putting yourself in danger
+
+- Trigger: enemy creature leaves your reach.
+- Make one melee attack against the provoking creature.
+- The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.
+- Creatures don't provoke an opportunity attack when they teleport or when someone or something moves them without using their movement, action, or reaction.
+
+### Readied Action
+Execute the reaction speciﬁed by your Ready action -
+
+Trigger: speciﬁed by your Ready action.
+
+### Cast a Spell
+Cast a spell with a casting time of 1 reaction
+
+- Trigger: speciﬁed by the spell.
+- For further details, see the Cast a spell action.
+
+### Free Actions
+- Drop an Item
+- Drop Prone
+- Speak
+- Cease Concentration
+- Cast a Quickened Spell
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 6 | REFERENCE & REMINDER</div>
+\page
+## Conditions
+### Blinded
+- You automatically fail any ability check which requires sight.
+- You have disadvantage on attack rolls.
+- Attack rolls against you have advantage.
+
+### Exhausted
+- Exhaustion is measured in six levels
+- You suffer the effect of your current level of exhaustion as well as all lower levels.
+- Finishing a long rest reduces your exhaustion level by 1, provided that you have also had some food and drink.
+
+##### Exhaustion Effects
+| Level | Effect                                         |
+|:-----:|:-----------------------------------------------|
+| 1     | Disadvantage on Ability Checks                 |
+| 2     | Speed Halved                                   |
+| 3     | Disadvantage on attack rolls and saving throws |
+| 4     | Hit Point Maximum Halved                       |
+| 5     | Speed reduced to 0                             |
+| 6     | Death                                          |
+
+### Incapacitated
+You can't take actions or reactions
+
+### Petrified
+
+- You are transformed, along with any nonmagical objects you are wearing or carrying, into a solid inanimate substance (usually stone)
+- Your weight increases by a factor of ten, and you cease aging.
+- You are incapacitated, can't move or speak, and are unaware of your surroundings.
+- Attack rolls against you have advantage.
+- You automatically fail Strength and Dexterity saving throws.
+- You have resistance to all damage.
+- You are immune to poison and disease, though a poison or disease already in your system is only suspended, not neutralized.
+
+### Restrained
+
+- You are restrained
+- Your speed becomes 0, and you can't beneﬁt from any bonus to your speed.
+- You have disadvantage on attack rolls.
+- Attack rolls against you have advantage.
+- You have disadvantage on Dexterity saving throws.
+
+### Charmed
+
+- You are charmed by another creature
+- You can't attack your charmer or target them with harmful abilities or magical effects.
+- Your charmer has advantage on ability checks to interact socially with you.
+
+### Frightened
+
+- You are frightened
+- You have disadvantage on ability checks and attack rolls while the source of your fear is within line of sight.
+- You can't willingly move closer to the source of your fear.
+
+### Invisible
+
+- You can't be seen without the aid of magic or a special sense
+- For the purpose of hiding, you are heavily obscured.
+- You can still be detected by any noise you make or tracks you leave.
+- You have advantage on attack rolls.
+- Attack rolls against you have disadvantage.
+
+### Poisoned
+
+- You are poisoned
+- You have disadvantage on attack rolls and ability checks.
+
+### Stunned
+
+- You are stunned
+- You are incapacitated, can't move, and can speak only falteringly.
+- Attack rolls against you have advantage.
+- You automatically fail Strength and Dexterity saving throws.
+
+### Deafened
+
+- You can't hear
+- You automatically fail any ability check which requires hearing.
+
+### Grappled
+
+- You are grappled
+- Your speed becomes 0, and you can't beneﬁt from any bonus to your speed.
+- The condition ends if your grappler is incapacitated.
+- The condition also ends if you are removed from the reach of your grappler.
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 6 | REFERENCE & REMINDER</div>
+\page
+### Paralyzed
+
+- You can't do anything
+- You are incapacitated and can't move or speak.
+- Attack rolls against you have advantage.
+- Any attack that hits you is a critical hit if the attacker is within 5 feet of you.
+- You automatically fail Strength and Dexterity saving throws.
+
+### Prone
+
+- You are prone
+- Your only movement option is to crawl, unless you stand up.
+- You have disadvantage on attack rolls.
+- Attack rolls against you have advantage if the attacker is within 5 feet of you, otherwise the attack roll has disadvantage.
+
+### Unconscious
+
+- Your Hit Points has been reduced to 0, and you are unconscious
+- You are incapacitated, can't move or speak, and are unaware of your surroundings.
+- You drop whatever you're holding and fall prone.
+- Attack rolls against you have advantage.
+- Any attack that hits you is a critical hit if the attacker is within 5 feet of you.
+- You automatically fail Strength and Dexterity saving throws.
+- When/if you return to a positive Hit Point total, you gain 1 level of Exhaustion.
+
+#### Damage at 0 Hit Points:
+
+- If you take any damage while you have 0 hit points, you automatically suffer an injury.
+- You suffer 1 failed death saving throw, unless the damage is from a Critical Hit (which it likely is, since attacks from within 5’ are automatically critical. If the damage is from a critical hit, you suffer 2 failed death saving throws
+
+### Dying
+
+- When you drop to 0 hit points, you either die outright (See “MASSIVE DAMAGE” or fall unconscious.
+- Whenever you start your turn with 0 hit points, you must make a special saving throw, called a death saving throw. This save isn’t tied to any ability score.
+- Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. On your third success, you become stable (see below). On your third failure, you become dead. The successes and failures don’t need to be consecutive; keep track of both until you collect three of a kind.
+- The number of both is reset to zero when you regain any hit points or become stable.
+
+#### Rolling 1 or 20
+
+When you make a death saving throw and roll a 1 on the d20, it counts as two failures.
+
+If you roll a 20 on the d20, you immediately regain 1 hit point.
+```
+```
+### Stable
+
+- The best way to save a creature with 0 hit points is to heal it.
+- If healing is unavailable, the creature can at least be stabilized so that it isn’t killed by a failed death saving throw. You can use your action to administer ﬁrst aid to an unconscious creature and attempt to stabilize it, which requires a successful DC 10 Wisdom (Medicine) check.
+- A stable creature doesn’t make death saving throws, even though it has 0 hit points, but it does remain unconscious.
+- The creature stops being stable, and must start making death saving throws again, if it takes any damage.
+- A stable creature that isn’t healed regains 1 hit point after 1d4 hours.
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 6 | REFERENCE & REMINDER</div>
+\page
+## Light, Vision, and Cover
+### Lightly Obscured
+
+- Dim light, patchy fog, moderate foliage
+- Creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
+
+### Heavily Obscured
+
+- Darkness, opaque fog, dense foliage
+- A creature in a heavily obscured area effectively suffers from the blinded condition.
+
+### Bright Light
+
+- Bright light lets most creatures see normally
+- Gloomy days still provide bright light, as do torches, lanterns, ﬁres, and other sources of illumination within a speciﬁc radius.
+
+### Dim Light
+
+- Dim light, also called shadows
+- Creates a lightly obscured area.
+- An area of dim light is usually a boundary between a source of bright light, such as a torch, and surrounding darkness.
+- The soft light of twilight and dawn also counts as dim light. A particularly brilliant full moon might bathe the land in dim light.
+
+### Darkness
+
+- Darkness creates a heavily obscured area
+- Creates a heavily obscured area.
+- Characters face darkness outdoors at night (even most moonlit nights), within the conﬁnes of an unlit dungeon or a subterranean vault, or in an area of magical darkness.
+
+### Blindsight
+
+- Perceive your surroundings without relying on sight, within a certain radius
+- Creatures without eyes, such as oozes, and creatures with echolocation or heightened senses, such as bats and true dragons, have this sense.
+
+### Darkvision
+
+- A creature with Darkvision can see better in the dark or low light conditions, within a certain radius
+- Within a speciﬁed range, a creature with darkvision can see in darkness as if the darkness were dim light, so areas of darkness are only lightly obscured as far as that creature is concerned.
+- However, the creature can’t discern color in darkness, only shades of gray.
+- Many creatures in the worlds of D&D, especially those that dwell underground, have darkvision.
+```
+```
+
+### Truesight
+
+- A creature with truesight can see everything in its true form, independent of the environment
+- A creature with truesight can, out to a speciﬁc range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic.
+- Furthermore, the creature can see into the Ethereal Plane.
+
+### Half Cover
+
+- A target has half cover if an obstacle blocks at least half of its body
+- The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.
+- A target with half cover has a +2 bonus to AC and Dexterity saving throws.
+- If a target is behind multiple sources of cover, only the most protective degree of cover applies
+
+### Three Quarters Cover
+
+- A target has three-quarters cover if about three-quarters of it is covered by an obstacle
+- The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.
+- A target with three-quarters cover has a +5 bonus to AC and Dexterity saving throws.
+- If a target is behind multiple sources of cover, only the most protective degree of cover applies
+
+### Full Cover
+
+- A target has total cover if it is completely concealed by an obstacle
+- A target with total cover can’t be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect.
+- If a target is behind multiple sources of cover, only the most protective degree of cover applies
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 6 | REFERENCE & REMINDER</div>
