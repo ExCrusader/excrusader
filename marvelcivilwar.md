@@ -64,12 +64,10 @@ title: Marvel Civil War
 * We get into the building, precede to the sub-basement, and start looking for his computer.
 * Shock Troopers enter, and are blinded.
 
-## Player Characters
-
-### The Legendaries
+## The Legendaries
 Popularity: Incredible 35
 
-#### Aegis
+### Aegis
 Fighting: Excellent 16<br>
 Agility: Amazing 46<br>
 Strength: Excellent 16<br>
@@ -86,35 +84,35 @@ Karma: 194<br>
 Popularity: Amazing 45<br>
 Resources: Typical 6
 
-##### Powers
+#### Powers
 Leaping: Excellent 20<br>
 Body Armour: Monstrous 75/55 versus energy attacks. Aegis' shield of energy requires an Agility check to use.<br>
 Energy Generation: Amazing 64<br>
 Danger Sense: Monstrous 75
 
-##### Talents
+#### Talents
 Leadership<br>
 Resist Domination
 
-##### Contacts
+#### Contacts
 Hercules: Good 8
 
-##### Story
+#### Story
 Aegis was Zeus' shield-bearer, riding with him in the back of his chariot during the greatest battles of the gods. A staunch defender of Olympus, he did his duty with honor and pride for uncounted years by human reckoning. After being sent on a mission to Earth by Zeus, Aegis saw much injustice and pain in the realm of mankind, but also potential. Recognizing his great service to the gods, and his selfless determination to do what was right regardless of his own well-being, Zeus eventually accepted the pleas of his faithful servant. Aegis was sent to Earth, as its newest protector and ambassador to Olympus.
 
-#### Blaze
+### Blaze
 A flamer.
 
-#### Evergreen
+### Evergreen
 Earth control.
 
-#### Frenzy
+### Frenzy
 Werewolf.
 
-#### Arcano
+### Arcano
 The Master Magus.<br>
 Has a telepathic link with Aegis.<br>
 His secret lair is the Cavern Arcanis, a dark crevasse.
 
-#### Stratos
+### Stratos
 Secret soldier flying scout.
