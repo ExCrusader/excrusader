@@ -4,15 +4,11 @@ title: Marvel Civil War
 
 # Marvel Civil War
 
-# Contents
+## Contents
 {:.no_toc}
 
 * Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
-
-# H1 header
-
-## H2 header
 
 ## Game Recaps
 
