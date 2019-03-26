@@ -1084,8 +1084,8 @@ Sex: Male
 **Weight:** 200 lbs.<br>
 **Sex:** Male
 
-> I don't break in stores - but I break all laws
-Written while sittin' - all fittin' not bitten
+> I don't break in stores - but I break all laws<br>
+Written while sittin' - all fittin' not bitten<br>
 Givin' me the juice that your not gettin'
 
 \- Public Enemy "Public Enemy No. 1"
