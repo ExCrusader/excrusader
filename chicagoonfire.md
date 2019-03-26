@@ -1084,11 +1084,11 @@ Sex: Male
 **Weight:** 200 lbs.<br>
 **Sex:** Male
 
-> I don't break in stores - but I break all laws<br>
-Written while sittin' - all fittin' not bitten<br>
+> I don't break in stores, but I break all laws<br>
+Written while sittin', all fittin' not bitten<br>
 Givin' me the juice that your not gettin'
 
-\- Public Enemy "Public Enemy No. 1"
+\- "Public Enemy No. 1" by Public Enemy
 
 #### Yueh
 Player: Tim Dobson<br>
