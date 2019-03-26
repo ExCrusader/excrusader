@@ -5,8 +5,10 @@ title: Marvel Civil War
 # Marvel Civil War
 {:.no_toc}
 
-<span class=“sidebar”>* Will be replaced with the ToC, excluding the header right above this.
-{:toc}</span>
+<span class=“sidebar”>
+* Will be replaced with the ToC, excluding the header right above this.
+{:toc}
+</span>
 
 ## Game Recaps
 
