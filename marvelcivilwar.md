@@ -5,13 +5,11 @@ title: Marvel Civil War
 # Marvel Civil War
 {:.no_toc}
 
-<span class=“sidebar”>
 * Will be replaced with the ToC, excluding the header right above this.
 {:toc}
-</span>
 
 ## Game Recaps
-
+<span class=“sidebar”>Test Float </span>
 ### August 14, 2007
 *  While at Legend House, Blaze is watching a reality T.V. show about the New Warriors. The show quickly turns violent, as they begin to fight some villains.
 * In the heat of the battle Nitro explodes, and the show goes dead.
