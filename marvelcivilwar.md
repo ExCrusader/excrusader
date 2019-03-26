@@ -6,8 +6,10 @@ title: Marvel Civil War
 {:.no_toc}
 
 <div class=“sidebar”>
+
 * Will be replaced with the ToC, excluding the header right above this.
 {:toc}
+
 </div>
 
 ## Game Recaps
