@@ -1007,7 +1007,7 @@ James Nowak's haven, located under warehouses by the docks.
 ### Boneyard
 The Boneyard is the hip, downtown club owned by Rhymez. He is the house DJ, plays the occasional live show, and has a recording studio as well as his haven in the basement. Was burnt down.
 
-## Player Characters - Hands of Apocrypha
+## Hands of Apocrypha
 
 ### The Sons of Midnight
 
