@@ -2,7 +2,8 @@
 title: Marvel Civil War
 ---
 
-# Marvel Civil War {:.no_toc}
+# Marvel Civil War
+{:.no_toc}
 
 * TOC
 {:toc}
