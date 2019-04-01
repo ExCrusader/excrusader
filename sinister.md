@@ -3,6 +3,11 @@ title: Sinister
 ---
 
 # World of Darkness: Sinister
+{:.no_toc}
+
+* Will be replaced with the ToC, excluding the header right above this.
+{:toc}
+
 Since the early 1900s the centre of New York State was the great city of New York. However, crime poverty and strange occurrences sprung out of control. over the past 100 years, just north of that city a new community was being built, the community of Sinister New York. It began as a cheap new home of the mega corporation known as TriTech Inc. And like Magic a city grew up around them. The government pushed endless amounts of money into the developing city, much to the dismay and agitation of the rest of the state. New York began to crumble and fall to bits while Sinister thrived and grew.
 
 By the year 2004 Sinister has grown larger then its sister city of New York which lies to the south. Much of the shipping business that once found it's way to New York City now ends up in Sinister. Massive steel mills and other factories outline Sinister... the smoke clouds can be seen for miles as the very air dies and withers with the massive industrial areas of Sinister.
