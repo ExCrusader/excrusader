@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
-#markdown-toc {list-style-type: none;}
-
-.sidebar {float: right;}
+ul#markdown-toc {
+  list-style-type: none;
+  float: right;
+  border-style: dotted;
+}
