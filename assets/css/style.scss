@@ -12,4 +12,7 @@ ul#markdown-toc {
   font-size: small;
   background-color: GhostWhite;
 }
-ul#markdown-toc ul { list-style-type: none; }
+ul#markdown-toc ul {
+  list-style-type: none;
+  padding-left: 4px;
+}
