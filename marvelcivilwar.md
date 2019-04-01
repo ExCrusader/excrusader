@@ -10,7 +10,7 @@ title: Marvel Civil War
 
 ## Game Recaps
 
-<span class=“sidebar”>Test Float </span>
+<div markdown="block" class="sidebar">Test Float</div>
 
 ### August 14, 2007
 *  While at Legend House, Blaze is watching a reality T.V. show about the New Warriors. The show quickly turns violent, as they begin to fight some villains.
