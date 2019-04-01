@@ -4,7 +4,8 @@ title: Marvel Civil War
 
 # Marvel Civil War {:.no_toc}
 
-* TOC {:toc}
+* TOC
+{:toc}
 
 ## Game Recaps
 
