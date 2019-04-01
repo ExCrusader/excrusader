@@ -3,6 +3,10 @@ title: Chicago On Fire
 ---
 
 # Chicago On Fire
+{:.no_toc}
+
+* Will be replaced with the ToC, excluding headers with no_toc.
+{:toc}
 
 ## Recaps
 
