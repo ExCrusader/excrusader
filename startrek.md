@@ -9,6 +9,8 @@ My current thought process for choosing FAE is that it models fiction where ever
 
 Stars Without Number was chosen because the command point ship-to-ship combat system solves the problem of how does everyone get involved in the ship combats. The essence of the system will probably be brought more inline with the rules in FAE.
 
+Found someone else thinking along almost the same lines. http://bernietheflumph.blogspot.com/2017/07/star-trek-with-fate-accelerated-part-1.html?m=1
+
 ## Character Creation
 Character creation is the standard character creation as presented in Fate Accelerated Edition (FAE). With a character creation process that is so open, the most important consideration is keeping your character within the spirit of the source material. There is a few things to keep in mind:
 - Your High Concept should represent your species and role onboard the ship. (ex. Vulcan Science Officer, Changeling Constable)
