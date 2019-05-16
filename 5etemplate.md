@@ -19,7 +19,7 @@ New font choices are my own research into what would look closest to the origina
 | Drop caps                                             | Unknown                                      |         | Textura Libera                     |             |
 | Chapter first line                                    | Mrs Eaves XL Serif OT                        |         | BaskervilleF                       |             |
 | Footers                                               | Mrs Eaves All Small Capsc                    |         | BaskervilleF                       |             |
-| Table and info box heading, page numbers              | Scala Sans Sc Offc                           |         | Open Sans, Fira Sans, Lato                     |             |
-| Tables, info boxes, examples of play, character sheet | Scala Sans Offc                              |         |                      |             |
+| Table and info box heading, page numbers              | Scala Sans Sc Offc                           |         | Alegreya Sans                      |             |
+| Tables, info boxes, examples of play, character sheet | Scala Sans Offc                              |         | Alegreya Sans                      |             |
 | Character sheet disclaimer                            | Interstate Light                             |         | Overpass                           |             |
 | Monster Manual quotes                                 | Dai Vernon Misdirect                         |         | Patrick Hand SC                    |             |
