@@ -11,10 +11,10 @@ New font choices are my own research into what would look closest to the origina
 
 | Where used?                                           | Font                                         | Example | New Font                           | New Example |
 |-------------------------------------------------------|----------------------------------------------|---------|------------------------------------|-------------|
-| Cover                                                 | Outline version of Modesto Bold Condensed    | .       | Andada                             | .           |
-| D&D logo                                              | Custom version of Modesto Poster with serifs |         | Andada                             |             |
+| Cover                                                 | Outline version of Modesto Bold Condensed    | .       | Andada or Reforma 1969 Negra                             | .           |
+| D&D logo                                              | Custom version of Modesto Poster with serifs |         | Andada or Reforma 1969 Negra                             |             |
 | Headings                                              | Mrs Eaves Small Caps                         |         | BaskervilleF                       |             |
-| Sub-headings                                          | Modesto Text                                 |         | Andada                             |             |
+| Sub-headings                                          | Modesto Text                                 |         | Andada or Reforma 1969 Negra                             |             |
 | Body text                                             | Bookmania                                    |         | Tex Gyre Bonum                     |             |
 | Drop caps                                             | Unknown                                      |         | Textura Libera                     |             |
 | Chapter first line                                    | Mrs Eaves XL Serif OT                        |         | BaskervilleF                       |             |
