@@ -7,7 +7,7 @@ Original research into what fonts were used in 5th edition Dungeons & Dragons ta
 
 Additionally I used the information from [http://rpg.brainclouds.net/2014/11/24/the-fonts-of-dd-5th-edition/](http://rpg.brainclouds.net/2014/11/24/the-fonts-of-dd-5th-edition/) as well as [https://www.dmsguild.com/product/170830/DMs-Guild-Creator-Resource--Adventure-Template](https://www.dmsguild.com/product/170830/DMs-Guild-Creator-Resource--Adventure-Template).
 
-New font choices are my own research into what would look closest to the original without using the typical traced imitation fonts. All fonts are open source and can be used for commercial puposes. Fonts with defined licenses were chosen over fonts with no defined license or "100% Free" fonts from font websites.
+New font choices are my own research into what would look closest to the original without using the typical traced imitation fonts. All fonts are open source and can be used for commercial puposes. Fonts with defined licenses were chosen over fonts with no defined license, system fonts, or undefined "100% Free" fonts from font websites.
 
 Reforma 1969 Negra is licensed under the Creative Commons BY-ND 4.0. I believe that this means using this font in a product requires attribution. Putting a colophon in the front of your book seems like a good way to meet this requirement, as well as spreading the word about good open source projects.
 
