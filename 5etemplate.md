@@ -11,17 +11,17 @@ New font choices are my own research into what would look closest to the origina
 
 Reforma 1969 Negra is licensed under the Creative Commons BY-ND 4.0. I believe that this means using this font in a product requires attribution. Putting a colophon in the front of your book seems like a good way to meet this requirement, as well as spreading the word about good open source projects.
 
-| Where used?                                           | Font                                         | Example | New Font                           | New Example |
-|-------------------------------------------------------|----------------------------------------------|---------|------------------------------------|-------------|
-| Cover                                                 | Outline version of Modesto Bold Condensed    | .       | Reforma 1969 Negra                             | .           |
-| D&D logo                                              | Custom version of Modesto Poster with serifs |         | Reforma 1969 Negra                             |             |
-| Headings                                              | Mrs Eaves Small Caps                         |         | BaskervilleF                       |             |
-| Sub-headings                                          | Modesto Text                                 |         | Reforma 1969 Negra                             |             |
-| Body text                                             | Bookmania                                    |         | Tex Gyre Bonum                     |             |
-| Drop caps                                             | Unknown                                      |         | Textura Libera                     |             |
-| Chapter first line                                    | Mrs Eaves XL Serif OT                        |         | BaskervilleF                       |             |
-| Footers                                               | Mrs Eaves All Small Capsc                    |         | BaskervilleF                       |             |
-| Table and info box heading, page numbers              | Scala Sans Sc Offc                           |         | Alegreya Sans                      |             |
-| Tables, info boxes, examples of play, character sheet | Scala Sans Offc                              |         | Alegreya Sans                      |             |
-| Character sheet disclaimer                            | Interstate Light                             |         | Overpass                           |             |
-| Monster Manual quotes                                 | Dai Vernon Misdirect                         |         | Patrick Hand SC                    |             |
+| Where used?                                           | Font                                         | Example | New Font                                                  | New Example |
+|-------------------------------------------------------|----------------------------------------------|---------|-----------------------------------------------------------|-------------|
+| Cover                                                 | Outline version of Modesto Bold Condensed    | .       | Reforma 1969 Negra                                        | .           |
+| D&D logo                                              | Custom version of Modesto Poster with serifs |         | Reforma 1969 Negra                                        |             |
+| Headings                                              | Mrs Eaves Small Caps                         |         | BaskervilleF/Balava (both derived from Libre Baskerville) |             |
+| Sub-headings                                          | Modesto Text                                 |         | Reforma 1969 Negra                                        |             |
+| Body text                                             | Bookmania                                    |         | Tex Gyre Bonum                                            |             |
+| Drop caps                                             | Unknown                                      |         | Textura Libera                                            |             |
+| Chapter first line                                    | Mrs Eaves XL Serif OT                        |         | BaskervilleF/Balava (both derived from Libre Baskerville) |             |
+| Footers                                               | Mrs Eaves All Small Capsc                    |         | BaskervilleF/Balava (both derived from Libre Baskerville) |             |
+| Table and info box heading, page numbers              | Scala Sans Sc Offc                           |         | Alegreya Sans                                             |             |
+| Tables, info boxes, examples of play, character sheet | Scala Sans Offc                              |         | Alegreya Sans                                             |             |
+| Character sheet disclaimer                            | Interstate Light                             |         | Overpass                                                  |             |
+| Monster Manual quotes                                 | Dai Vernon Misdirect                         |         | Patrick Hand SC                                           |             |
